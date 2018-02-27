@@ -61,6 +61,8 @@ This is a maintained collection of free actionable resources for those conductin
 * [Other Interesting](#other-interesting)
 * [Link Checking](#link-checking)
 
+
+### Resources
 ----
 #### People Investigations
 - [Profile Engine](http://profileengine.com/)
