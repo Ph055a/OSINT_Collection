@@ -61,7 +61,6 @@ This is a maintained collection of free actionable resources for those conductin
 * [Other Interesting](#other-interesting)
 * [Link Checking](#link-checking)
 
-
 ### Resources
 ----
 #### People Investigations
@@ -154,6 +153,7 @@ This is a maintained collection of free actionable resources for those conductin
 - [NetTrace](https://www.nettrace.com.au/resource/search/people/) (AU)
 
 #### Domain and IP Research
+- [Onyphe](https://www.onyphe.io/)
 - [Accuranker](https://www.accuranker.com/)
 - [Analyze ID](http://analyzeid.com/)
 - [IP Intel](https://ipintel.io)
@@ -234,6 +234,7 @@ This is a maintained collection of free actionable resources for those conductin
 - [Arivify](https://www.arivify.com)
 - [EasyStreet](http://streeteasy.com)
 - [Padmapper](https://www.padmapper.com)
+- [Rehold](https://rehold.com/)
 
 #### Stolen Property
 - [Art Loss (Stolen Art)](http://www.artloss.com)
@@ -260,6 +261,8 @@ This is a maintained collection of free actionable resources for those conductin
 - [DataBreaches](https://www.databreaches.net/)
 
 #### Geospatial
+- [Your Navigation](http://www.yournavigation.org/)
+- [ZeeMaps](https://www.zeemaps.com)
 - [Terra server](https://www.terraserver.com/)
 - [Free Map Tools](https://www.freemaptools.com)
 - [Terra pattern](http://www.terrapattern.com/)
@@ -578,6 +581,18 @@ This is a maintained collection of free actionable resources for those conductin
 - [Tumblr Search](http://www.tumblr.com/search)
 
 #### Russian Speaking Social Media
+- [Yachudo](http://www.yachudo.com)
+- [Vsitut](https://vsitut.com/)
+- [Odnogrupniki](https://odnogrupniki.com.ua)
+- [Social Face](https://socialface.com.ua)
+- [Druzi](https://druzi.uk/)
+- [1ua](http://1ua.com.ua)
+- [vreale](http://vreale.net)
+- [Naps](http://naps.com.ua)
+- [Ukrainci](http://ukrainci.org.ua/home.php)
+- [Ukface](http://ukrface.com.ua/)
+- [ц.укр](https://ц.укр)
+- [Live Book](http://livebook.com.ua/)
 - [Дезертир](http://vk.com/app3046467)
 - [Barkov.net](http://vk.barkov.net/)
 - [Find Face](http://findface.ru/) (RU)
@@ -618,6 +633,7 @@ This is a maintained collection of free actionable resources for those conductin
 - [tchannels](https://tchannels.me)
 
 #### Twitter
+- [Mapd Tweet Map](https://www.mapd.com/demos/tweetmap/)
 - [AllMyTweets](https://www.allmytweets.net/connect/)
 - [Bioischanged](http://bioischanged.com/)
 - [Crate](https://getcrate.co/)
