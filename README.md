@@ -2,7 +2,6 @@
 
 This is a maintained collection of free actionable resources for those conducting OSINT investigations. None of the links below should point to paid software or services, for more information please see the **contribution** guide.
 
-Join our community of researchers @ https://www.osint.team
 
 ### Table of Contents
 * [People Investigations](#people-investigations)
