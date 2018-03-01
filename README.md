@@ -354,6 +354,7 @@ This is a maintained collection of free actionable resources for those conductin
 
 #### File Metadata
 - [Meta Shield](https://metashieldclean-up.elevenpaths.com/)
+- [Get-Metadata](https://www.get-metadata.com/)
 
 #### Image Search
 - [loc.alize](https://loc.alize.us)
