@@ -17,6 +17,7 @@ This is a maintained collection of free actionable resources for those conductin
 * [Live Streams](#live-streams)
 * [Audio Streams](#audio-streams)
 * [Image Analysis](#image-analysis)
+* [File Metadata](#file-metadata)
 * [Image Search](#image-search)
 * [Translation](#translation)
 * [Cached websites](#cached-websites)
@@ -350,6 +351,9 @@ This is a maintained collection of free actionable resources for those conductin
 - [Lunapic](http://www194.lunapic.com/editor)
 - [free-ocr.com](free-ocr.com)
 - [thexifer.net](https://www.thexifer.net/)
+
+#### File Metadata
+- [Meta Shield](https://metashieldclean-up.elevenpaths.com/)
 
 #### Image Search
 - [loc.alize](https://loc.alize.us)
