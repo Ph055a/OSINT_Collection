@@ -2,67 +2,6 @@
 
 This is a maintained collection of free actionable resources for those conducting OSINT investigations. None of the links below should point to paid software or services, for more information please see the **contribution** guide.
 
-
-### Table of Contents
-* [People Investigations](#people-investigations)
-* [Arrests, Inmate &amp; Court Search](#arrests-inmate--court-search)
-* [Domain and IP Research](#domain-and-ip-research)
-* [Real Estate](#real-estate)
-* [Stolen Property](#stolen-property)
-* [Fact Checking](#fact-checking)
-* [Censorship, Takedowns, Copyright](#censorship-takedowns-copyright)
-* [Leaks](#leaks)
-* [Geospatial](#geospatial)
-* [Video Search](#video-search)
-* [Live Streams](#live-streams)
-* [Audio Streams](#audio-streams)
-* [Image Analysis](#image-analysis)
-* [File Metadata](#file-metadata)
-* [Image Search](#image-search)
-* [Translation](#translation)
-* [Cached websites](#cached-websites)
-* [Keywords Research](#keywords-research)
-* [Job Search](#job-search)
-* [Company Research](#company-research)
-* [Events](#events)
-* [Expert Search](#expert-search)
-* [E-mail Search / Check](#e-mail-search--check)
-* [Scam Emails](#scam-emails)
-* [Phone Numbers](#phone-numbers)
-* [Username Check](#username-check)
-* [Tumblr](#tumblr)
-* [Russian Speaking Social Media](#russian-speaking-social-media)
-* [Reddit](#reddit)
-* [Pinterest](#pinterest)
-* [Wikipedia](#wikipedia)
-* [Instagram](#instagram)
-* [Telegram](#telegram)
-* [Twitter](#twitter)
-* [Google ](#google)
-* [Facebook](#facebook)
-* [Major Social Networks](#major-social-networks)
-* [Real-Time Search, Social Media Search, and General Social Media Tools](#real-time-search-social-media-search-and-general-social-media-tools)
-* [Pastebins](#pastebins)
-* [Code Search](#code-search)
-* [General Search](#general-search)
-* [Similar Sites Search](#similar-sites-search)
-* [Visual Search and Clustering Search Engines](#visual-search-and-clustering-search-engines)
-* [Specialty Search Engines](#specialty-search-engines)
-* [Meta Search](#meta-search)
-* [International Search Engines](#international-search-engines)
-* [Document and Slides Search](#document-and-slides-search)
-* [Forums and Discussion Boards Search](#forums-and-discussion-boards-search)
-* [Devices(IOT)](#devicesiot)
-* [Sun and lunar Tools](#sun-and-lunar-tools)
-* [Flight Tracking](#flight-tracking)
-* [Drones](#drones)
-* [Cryptocurrency Tracking](#cryptocurrency-tracking)
-* [Vehicle](#vehicle)
-* [Marine &amp; Cargo Tracking](#marine--cargo-tracking)
-* [Multi-Tools](#multi-tools)
-* [Other Interesting](#other-interesting)
-* [Link Checking](#link-checking)
-
 ### Resources
 ----
 #### People Investigations
@@ -76,17 +15,10 @@ This is a maintained collection of free actionable resources for those conductin
 - [Private Eye](https://www.privateeye.com)
 - [Locate Family](http://www.locatefamily.com)
 - [Recruitin](https://recruitin.net)
-- [DOB Search](https://www.dobsearch.com)
-- [Ohio Resident DB](https://ohioresidentdb.com)
-- [Colorado Resident DB](https://coloradoresidentdb.com/)
-- [Oklahoma Resident DB](https://oklahomaresidentdb.com)
-- [North Carolina Resident DB](https://northcarolinaresidentdb.com)
-- [Florida Resident DB](https://floridaresidentdb.com/)
 - [Starving Farmer](http://www.starvingfarmer.com/)
 - [411 (US)](http://www.411.com/)
 - [Alumni.net](http://www.alumni.net/)
 - [Ancestry](http://www.ancestry.com/)
-- [Voter Records](https://voterrecords.com)
 - [Canada411](http://www.canada411.ca/)
 - [Cedar](http://www.cedar.buffalo.edu/AdServ/person-search.html)
 - [Charlie App](https://charlieapp.com/)
@@ -134,10 +66,24 @@ This is a maintained collection of free actionable resources for those conductin
 - [Yasni](http://www.yasni.com/)
 - [Zabasearch](http://www.zabasearch.com/)
 - [Zoominfo](http://www.zoominfo.com/)
-- [192 (UK)](http://www.192.com/) (UK)
-- [Grave Finder](https://www.findagrave.com/index.html)
+- [192](http://www.192.com/) (UK)
 
-### Arrests, Inmate & Court Search
+#### Deceased Searching
+- [Grave Finder](https://www.findagrave.com/index.html)
+- [Legacy](http://www.legacy.com/)
+- [DOB Search - Death records](http://www.dobsearch.com/death-records/)
+- [https://www.familysearch.org/search/collection/1202535](Social Security Death Index)
+
+#### Voter data (US)
+- [Voter Records](https://voterrecords.com)
+- [DOB Search](https://www.dobsearch.com)
+- [Ohio Resident DB](https://ohioresidentdb.com)
+- [Colorado Resident DB](https://coloradoresidentdb.com/)
+- [Oklahoma Resident DB](https://oklahomaresidentdb.com)
+- [North Carolina Resident DB](https://northcarolinaresidentdb.com)
+- [Florida Resident DB](https://floridaresidentdb.com/)
+
+#### Arrests, Inmate & Court Search
 - [courtsystem.com](http://www.courtsystem.org/)
 - [InmateAid](https://www.inmateaid.com)
 - [Jailbase](http://www.jailbase.com/en/search/)
@@ -155,6 +101,7 @@ This is a maintained collection of free actionable resources for those conductin
 - [NetTrace](https://www.nettrace.com.au/resource/search/people/) (AU)
 
 #### Domain and IP Research
+- [Whoishostingthis](https://www.whoishostingthis.com)
 - [Onyphe](https://www.onyphe.io/)
 - [Accuranker](https://www.accuranker.com/)
 - [Analyze ID](http://analyzeid.com/)
@@ -231,6 +178,14 @@ This is a maintained collection of free actionable resources for those conductin
 - [ViewDNS.info](http://viewdns.info/)
 - [You Get Signal](http://www.yougetsignal.com/)
 
+#### Analytics & Affiliate ID's
+- [Adsense History](https://www.timer4web.com/features/adsense-history)
+- [PB DB](http://pub-db.com)
+- [Same ID](http://sameid.net/)
+
+#### Plagiarism
+- [SEO Plagiarism](https://smallseotools.com/plagiarism-checker)
+
 #### Real Estate
 - [HomeMetry](https://homemetry.com/)
 - [Arivify](https://www.arivify.com)
@@ -263,8 +218,13 @@ This is a maintained collection of free actionable resources for those conductin
 - [DataBreaches](https://www.databreaches.net/)
 
 #### Geospatial
+- [Digital Globe](https://discover.digitalglobe.com/)
+- [Sentinel Hub](https://apps.sentinel-hub.com)
 - [Your Navigation](http://www.yournavigation.org/)
+- [USGS Land Sat](https://landsatlook.usgs.gov/)
+- [USGS Earth Explorer](https://earthexplorer.usgs.gov/)
 - [ZeeMaps](https://www.zeemaps.com)
+- [Zoom Earth](https://zoom.earth/)
 - [Terra server](https://www.terraserver.com/)
 - [Free Map Tools](https://www.freemaptools.com)
 - [Terra pattern](http://www.terrapattern.com/)
@@ -275,7 +235,6 @@ This is a maintained collection of free actionable resources for those conductin
 - [Great Lakes Wildlife](http://maps.glifwc.org/)
 - [Liveumaps](http://liveuamap.com)
 - [Land Viewer](https://lv.eosda.com/)
-- [USGS Earth Explorer](https://earthexplorer.usgs.gov/)
 - [Batchgeo](http://batchgeo.com/)
 - [Bing Maps](http://www.bing.com/maps)
 - [DualMaps](http://data.mashedworld.com/dualmaps/map.htm)
@@ -301,6 +260,7 @@ This is a maintained collection of free actionable resources for those conductin
 - [Your Navigation](http://yournavigation.org/)
 - [Open Railway Map](http://www.openrailwaymap.org/)
 - [US Nav Guide](http://www.usnaviguide.com)
+- [Geo Names](http://www.geonames.org/)
 
 #### Video Search
 - [Aol Videos](http://on.aol.com/)
@@ -442,35 +402,33 @@ This is a maintained collection of free actionable resources for those conductin
 - [Soovle](http://www.soovle.com/)
 - [Ubersuggest](http://ubersuggest.org/)
 
-
-
 #### Job Search
+- [Honest Work](https://honest.work/)
 - [Beyond](http://www.beyond.com/)
 - [CampusCareerCenter](http://www.campuscareercenter.com/)
 - [CareerBuilder](http://www.careerbuilder.com/)
 - [College Recruiter](https://www.collegerecruiter.com/)
 - [Craiglist](http://losangeles.craigslist.org/)
 - [Dice](http://www.dice.com/)
-- [Eluta (Canada)](http://www.eluta.ca/)
+- [Eluta](http://www.eluta.ca/) (CA)
 - [Eurojobs](https://www.eurojobs.com/)
-- [Fish4Jobs](http://www.fish4.co.uk/)
+- [Fish4Jobs](http://www.fish4.co.uk/) (UK)
 - [Glassdoor](https://www.glassdoor.com/)
 - [Headhunter](http://www.headhunter.com/)
 - [Indeed](http://www.indeed.com/)
-- [Jobs (Poland)](http://www.jobs.pl/)
-- [Jobsite (UK)](http://www.jobsite.co.uk/)
-- [Linkedin](https://www.linkedin.com/)
+- [Jobs](http://www.jobs.pl/) (PL)
+- [Jobsite](http://www.jobsite.co.uk/) (UK)
 - [Monster](http://www.monster.com/)
-- [Naukri (India)](http://www.naukri.com/)
-- [Reed (UK)](http://www.reed.co.uk/)
-- [Seek (Australia)](http://www.seek.com.au/)
+- [Naukri](http://www.naukri.com/) (IN)
+- [Reed](http://www.reed.co.uk/) (UK)
+- [Seek](http://www.seek.com.au/) (AU)
 - [SimplyHired](http://www.simplyhired.com/)
 - [Xing](http://www.xing.com/)
 - [ZipRecruiter](https://www.ziprecruiter.com/)
 
 #### Company Research
 - [AllStocksLinks](http://www.allstocks.com/links)
-- [712 (FR)](https://www.118712.fr/)
+- [712](https://www.118712.fr/) (FR)
 - [Battle of the Internet Giants](http://pennystocks.la/battle-of-internet-giants)
 - [Better Business Bureau](http://www.bbb.org/)
 - [Bizeurope](http://www.bizeurope.com/)
@@ -516,7 +474,7 @@ This is a maintained collection of free actionable resources for those conductin
 - [Site Liner](http://www.siteliner.com/)
 
 #### Events
-- [Wherevent (worldwide)](http://www.wherevent.com/)
+- [Wherevent](http://www.wherevent.com/)
 
 #### Expert Search
 - [Academia](http://academia.edu/)
@@ -581,10 +539,12 @@ This is a maintained collection of free actionable resources for those conductin
 - [Name Chk](http://www.namechk.com/)
 - [Name Checkr](http://www.namecheckr.com/)
 - [Username Check](http://www.usernamecheck.com/)
+- [User Sherlock](http://www.usersherlock.com/)
 
 #### Tumblr
 - [Searchlr](http://searchlr.net/)
 - [Tumblr Search](http://www.tumblr.com/search)
+- [Tumblr Originals](http://www.studiomoh.com/fun/tumblr_originals/)
 
 #### Russian Speaking Social Media
 - [Yachudo](http://www.yachudo.com)
@@ -626,6 +586,9 @@ This is a maintained collection of free actionable resources for those conductin
 - [Redective](http://www.redective.com/)
 - [Redditlist](http://redditlist.com/)
 
+#### LinkedIn
+- [socialab](http://www.socilab.com/#home)
+
 #### Pinterest
 - [Pingroupie](http://pingroupie.com/)
 
@@ -642,10 +605,12 @@ This is a maintained collection of free actionable resources for those conductin
 - [tchannels](https://tchannels.me)
 
 #### Twitter
+- [qrt tweets](http://qtrtweets.com/twitter/)
+- [onemilliontweetmap](https://onemilliontweetmap.com)
+- [Twitter Fall](https://twitterfall.com/)
 - [Mapd Tweet Map](https://www.mapd.com/demos/tweetmap/)
 - [AllMyTweets](https://www.allmytweets.net/connect/)
 - [Bioischanged](http://bioischanged.com/)
-- [Crate](https://getcrate.co/)
 - [doesfollow](https://doesfollow.com/)
 - [Fake Follower Check](https://fakers.statuspeople.com/)
 - [First Tweet](http://ctrlq.org/first)
@@ -708,6 +673,9 @@ This is a maintained collection of free actionable resources for those conductin
 - [TWUBS Twitter Chat](http://twubs.com/twitter-chats)
 - [Schedule Warble](https://warble.co/)
 - [Block Together](http://blocktogether.org)
+
+#### Snap Chat
+- [Find my snap](http://findmysnap.com/)
 
 #### Google+
 - [PlusFeed](http://plusfeed.frosas.net/)
@@ -774,6 +742,7 @@ This is a maintained collection of free actionable resources for those conductin
 #### Code Search
 - [NerdyData](https://search.nerdydata.com/)
 - [SearchCode](https://searchcode.com/)
+- [Publicwww](https://publicwww.com/)
 
 #### General Search
 - [Advangle](http://advangle.com/)
@@ -831,6 +800,7 @@ This is a maintained collection of free actionable resources for those conductin
 - [Million Short](https://millionshort.com/)
 - [WorldWideScience.org](http://worldwidescience.org/)
 - [Zanran](http://zanran.com/)
+- [http://bvsg.org](http://bvsg.org)
 
 #### Meta Search
 - [All-in-One](http://all-io.net/)
@@ -931,13 +901,16 @@ This is a maintained collection of free actionable resources for those conductin
 - [Bitcoinwhoswho](http://bitcoinwhoswho.com)
 - [Blockchain Info](https://blockchain.info)
 - [Block Explorer](https://blockexplorer.com)
+- [BitCoin Whoswho](http://bitcoinwhoswho.com)
 - [Blockonomics](https://www.blockonomics.co)
+- [Wallet Explorer](https://www.walletexplorer.com)
 
 #### Vehicle
 - [Reverse Genie (License Plate Search)](http://www.reversegenie.com/plate.php)
 - [Autowini (Vin Search International)](http://www.autowini.com)
 - [thatsthem (Vin Search)](http://thatsthem.com/vin-search)
 - [All Vehicle Data](http://www.allvehicledata.com/)
+- [Vin Place](http://vin.place)
 - [Check That (Vin Search)](https://www.checkthatvin.com/?action=pcheck)
 - [Vin decoderz (Vin Search)](https://www.vindecoderz.com/)
 - [National Insurance Crime Bureau(Vin Search)](https://www.nicb.org/theft_and_fraud_awareness/vincheck)
@@ -945,22 +918,33 @@ This is a maintained collection of free actionable resources for those conductin
 - [Vehicle History (Plate Search)](https://www.vehiclehistory.com/license-plate-search.php)
 - [auto bid master (auction)](http://www.autobidmaster.com/)
 - [copart (auction)](https://www.copart.com)
+- [Check That Vin](https://checkthatvin.com)
 - [Vin-Info](https://uk.vin-info.com) (UK)
 
 #### Marine & Cargo Tracking
 - [Marine Traffic](http://www.marinetraffic.com)
 - [Vessel Tracker](http://www.vesseltracker.com)
 - [Vessel Finder](https://www.vesselfinder.com)
+- [Boat Info World](https://www.boatinfoworld.com/)
 - [My Ship Tracking](http://www.myshiptracking.com)
 - [Ship Spotting](http://shipspotting.com)
 - [eships.net](http://eships.net)
 - [Crusin](http://www.cruisin.me)
 - [Live Cruise Ship Tracker](http://www.livecruiseshiptracker.com)
 - [Cruise Mapper](http://www.cruisemapper.com)
-- [track-trace (Cargo)](http://www.track-trace.com/container)
+- [Track Trace (Cargo)](http://www.track-trace.com/container)
+- [Track Trace (Lading)](http://www.track-trace.com/bol)
 - [container-tracking (Cargo)](http://container-tracking.org)
 - [Panjiva (Cargo)](https://panjiva.com/search)
 - [Import Genius (Cargo)](http://importgenius.com/)
+
+### Post / Mail
+- [Track Trace Post](http://www.track-trace.com/post)
+
+#### IBAN
+- [TBG 5](http://www.tbg5-finance.org/?ibancheck.shtml)
+- [IBAN calculator](http://www.ibancalculator.com/iban_validieren.html)
+- [IBAN checker](https://www.iban.com/)
 
 #### Multi-Tools
 - [Intel Techniques Tools](https://inteltechniques.com/menu.html)
