@@ -5,6 +5,7 @@ This is a maintained collection of free actionable resources for those conductin
 Special thanks to everyone @ https://osint.team
 
 Use your browser(CTL-F) to search by country code.
+
     * [People Investigations](#people-investigations)
     * [Deceased Searching](#deceased-searching)
     * [Voter data (US)](#voter-data-us)
