@@ -545,6 +545,14 @@ Use your browser(CTL-F) to search by country code.
 #### Events
 - [Wherevent](http://www.wherevent.com/)
 - [Eventbrite](https://www.eventbrite.com)
+- [Lanyrd](http://lanyrd.com/)
+- [Song Kick](https://www.songkick.com/)
+- [Townscript](https://www.townscript.com)
+- [Global Events List](http://www.globaleventslist.elsevier.com/)
+- [Wikido](https://www.wikido.com/)
+- [Envensi](https://www.evensi.com/)
+- [Whats Up In Town](https://whatupintown.com/)
+- [Etrigg](https://etrigg.com/) (FR)
 
 #### Expert Search
 - [Academia](http://academia.edu/)
