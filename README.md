@@ -2,8 +2,9 @@
 
 This is a maintained collection of free actionable resources for those conducting OSINT investigations. None of the links below should point to paid software or services, for more information please see the **contribution** guide.
 
-Use your browser(CTL-F) to search by country code.
+Special thanks to everyone @ https://osint.team
 
+Use your browser(CTL-F) to search by country code.
 * [Resources](#resources)
     * [People Investigations](#people-investigations)
     * [Deceased Searching](#deceased-searching)
