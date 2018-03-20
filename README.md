@@ -544,6 +544,7 @@ Use your browser(CTL-F) to search by country code.
 
 #### Events
 - [Wherevent](http://www.wherevent.com/)
+- [Eventbrite](https://www.eventbrite.com)
 
 #### Expert Search
 - [Academia](http://academia.edu/)
