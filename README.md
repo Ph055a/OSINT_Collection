@@ -356,7 +356,6 @@ Use your browser(CTL-F) to search by country code.
 - [tchannels](https://www.tchannels.tv)
 - [Opentopia](http://www.opentopia.com)
 - [insecam](http://www.insecam.org)
-- [On Periscope](http://onperiscope.com/)
 - [Perisearch](https://www.perisearch.xyz/)
 - [Recpe riScope](http://www.recperiscope.com/)
 - [Periscope Map](http://www.periscopemap.live/)
