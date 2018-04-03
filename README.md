@@ -517,7 +517,7 @@ Use your browser(CTL-F) to search by country code.
 - [Ezilon](http://www.ezilon.com/)
 - [FindtheCompany](http://www.findthecompany.com/)
 - [Glassdoor](https://www.glassdoor.com/)
-- [Global Business Register](http://www.globalbusinessregister.com/)
+- [Kyckr Company Search](https://portal.kyckr.co.uk/companySearch.aspx)(UK)
 - [globalEdge](http://globaledge.msu.edu/)
 - [GuideStar](http://www.guidestar.org/)
 - [Hoovers](http://www.hoovers.com/)
