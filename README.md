@@ -950,6 +950,7 @@ Use your browser(CTL-F) to search by country code.
 - [Wigle](https://www.wigle.net)
 - [Thingful](https://www.thingful.net)
 - [shodan](https://www.shodan.io)
+- [Simple Shodan](https://simple.shodan.io)
 - [censys](https://censys.io)
 - [World Of VNC](https://www.worldofvnc.net)
 
