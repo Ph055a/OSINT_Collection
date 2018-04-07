@@ -252,6 +252,7 @@ Use your browser(CTL-F) to search by country code.
 - [Verisign](http://dnssec-debugger.verisignlabs.com/)
 - [ViewDNS.info](http://viewdns.info/)
 - [You Get Signal](http://www.yougetsignal.com/)
+- [Shared Count](http://www.sharedcount.com/)
 
 #### Analytics & Affiliate ID's
 - [Adsense History](https://www.timer4web.com/features/adsense-history)
