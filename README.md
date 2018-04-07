@@ -957,6 +957,7 @@ Use your browser(CTL-F) to search by country code.
 - [Simple Shodan](https://simple.shodan.io)
 - [censys](https://censys.io)
 - [World Of VNC](https://www.worldofvnc.net)
+- [Open Signal](https://opensignal.com)
 
 #### Sun and lunar Tools
 - [Sun rise, noon, and set time and direction.](https://sollumis.com/)
@@ -978,7 +979,7 @@ Use your browser(CTL-F) to search by country code.
 - [FAA Registry](http://registry.faa.gov/aircraftinquiry/NNum_Inquiry.aspx)
 
 #### Drones
-- [Drone World](http://www.dronetheworld.com)
+- [Drone World](http://www.dronetheworld.com) (404)
 - [Travel By Drone](http://travelbydrone.com/)
 
 #### Cryptocurrency Tracking
