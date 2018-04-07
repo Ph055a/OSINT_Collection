@@ -6,6 +6,7 @@ Special thanks to everyone @ https://osint.team
 
 Use your browser(CTL-F) to search by country code.
 
+* [Avatar](#avatar)
 * [People Investigations](#people-investigations)
 * [Deceased Searching](#deceased-searching)
 * [Voter data (US)](#voter-data-us)
@@ -74,6 +75,8 @@ Use your browser(CTL-F) to search by country code.
 * [Link Checking](#link-checking)
 ### Resources
 ----
+#### Avatar
+[Gravatar Search](https://en.gravatar.com/site/check/)
 #### People Investigations
 - [Profile Engine](http://profileengine.com/)
 - [Catfish](https://socialcatfish.com)
