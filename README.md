@@ -500,6 +500,7 @@ Use your browser(CTL-F) to search by country code.
 - [ZipRecruiter](https://www.ziprecruiter.com/)
 
 #### Company Research
+- [Lead Ferret](https://leadferret.com/search)
 - [AllStocksLinks](http://www.allstocks.com/links)
 - [712](https://www.118712.fr/) (FR)
 - [Battle of the Internet Giants](http://pennystocks.la/battle-of-internet-giants)
@@ -961,7 +962,7 @@ Use your browser(CTL-F) to search by country code.
 
 #### Sun and lunar Tools
 - [Sun rise, noon, and set time and direction.](https://sollumis.com/)
-- [Home ☼ SunEarthTools.com solar tools for consumers and designers](http://www.sunearthtools.com/)
+- [SunEarthTools.com](http://www.sunearthtools.com/)
 - [Astronomy - Sun - Moon - Eclipses](https://www.timeanddate.com/astronomy/)
 
 #### Flight Tracking
