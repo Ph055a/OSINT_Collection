@@ -822,7 +822,6 @@ Use your browser(CTL-F) to search by country code.
 - [SociaBlade](http://socialblade.com/)
 - [Social Mention](http://socialmention.com/)
 - [Social Searcher](http://www.social-searcher.com/)
-- [Tagboard](https://tagboard.com/)
 - [yachudo](https://www.yachudo.com) (UA)
 
 #### Pastebins
