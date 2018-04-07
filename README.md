@@ -76,7 +76,7 @@ Use your browser(CTL-F) to search by country code.
 ### Resources
 ----
 #### Avatar
-[Gravatar Search](https://en.gravatar.com/site/check/)
+- [Gravatar Search](https://en.gravatar.com/site/check/)
 #### People Investigations
 - [Profile Engine](http://profileengine.com/)
 - [Catfish](https://socialcatfish.com)
