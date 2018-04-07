@@ -281,6 +281,7 @@ Use your browser(CTL-F) to search by country code.
 - [MediaBugs](http://mediabugs.org/)
 - [Snopes](http://www.snopes.com/)
 - [Verification Handbook](http://verificationhandbook.com/)
+- [Politifact](http://www.politifact.com/)
 
 #### Censorship, Takedowns, Copyright
 - [Google Copyright Takedowns](https://www.google.com/transparencyreport/removals/copyright/explore/?)
@@ -984,12 +985,20 @@ Use your browser(CTL-F) to search by country code.
 - [Drone World](http://www.dronetheworld.com) (404)
 - [Travel By Drone](http://travelbydrone.com/)
 
-#### Cryptocurrency Tracking
+#### Cryptocurrency Investigations
 - [Bitcoinwhoswho](http://bitcoinwhoswho.com)
 - [Blockchain Info](https://blockchain.info)
 - [Block Explorer](https://blockexplorer.com)
 - [BitCoin Whoswho](http://bitcoinwhoswho.com)
 - [Blockonomics](https://www.blockonomics.co)
+- [Wallet Explorer](https://www.walletexplorer.com)
+- [Block Trail](https://www.blocktrail.com/BTC)
+- [Ether Chain](https://www.etherchain.org/)
+- [EtherScan](https://etherscan.io/)
+- [Mblocks](https://moneroblocks.info)
+- [Chain Radar](https://chainradar.com)
+- [Xmrchain](https://xmrchain.net)
+- [Bitref](https://bitref.com/)
 - [Wallet Explorer](https://www.walletexplorer.com)
 
 #### Vehicle
