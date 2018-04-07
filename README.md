@@ -274,6 +274,7 @@ Use your browser(CTL-F) to search by country code.
 
 #### Fact Checking
 - [Checkdesk](https://meedan.com/en/checkdesk)
+- [Hoaxy](https://hoaxy.iuni.iu.edu/)
 - [Citizen Desk](https://www.sourcefabric.org/en/citizendesk)
 - [Emergent](http://www.emergent.info/)
 - [Fact Check](http://www.factcheck.org/)
