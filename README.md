@@ -618,6 +618,8 @@ Use your browser(CTL-F) to search by country code.
 - [Burner Challenge](https://challenge.burnerapp.com)
 - [Next Caller](https://nextcaller.com/)
 - [fone finder](http://www.fonefinder.net)
+- [Open Cnam](https://www.opencnam.com/)
+- [inteltechniques Phone Tools](https://inteltechniques.com/osint/telephone.html)
 
 #### Username Check
 - [Check User Names](http://www.checkusernames.com/)
