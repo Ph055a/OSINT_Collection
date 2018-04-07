@@ -79,6 +79,7 @@ Use your browser(CTL-F) to search by country code.
 - [Gravatar Search](https://en.gravatar.com/site/check/)
 #### People Investigations
 - [Profile Engine](http://profileengine.com/)
+- [The Knot](https://www.theknot.com)
 - [Catfish](https://socialcatfish.com)
 - [Neighbor Report](http://neighbor.report/)
 - [Next Door](https://nextdoor.com/)
