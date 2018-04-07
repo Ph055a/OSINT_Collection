@@ -805,12 +805,13 @@ Use your browser(CTL-F) to search by country code.
 - [VKontakte](https://vk.com/)
 - [Xing](https://www.xing.com/)
 
-#### Real-Time Search, Social Media Search, and General Social Media Tools
+#### Social Media Search
 - [Addict-o-matic](http://addictomatic.com/)
 - [Buzz sumo](http://buzzsumo.com/)
 - [Cyfe](http://www.cyfe.com/)
 - [Gaddr](https://gaddr.me/)
 - [Geofeedia](https://geofeedia.com/)
+- [Asian Ave](http://www.asianave.com)
 - [Hootsuite](http://hootsuite.com/)
 - [HowSociable](http://www.howsociable.com/)
 - [Hashtatit](http://www.hashatit.com/)
