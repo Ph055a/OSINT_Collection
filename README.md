@@ -173,6 +173,8 @@ Use your browser(CTL-F) to search by country code.
 - [People Search](http://www.peoplesearch.com.au/) (AU)
 - [Aussie Finder](http://aussiefinder.com.au) (AU)
 - [NetTrace](https://www.nettrace.com.au/resource/search/people/) (AU)
+- [Search Systems](http://publicrecords.searchsystems.net)
+- [Free Public Records](http://publicrecords.onlinesearches.com)
 
 #### Domain and IP Research
 - [Whoishostingthis](https://www.whoishostingthis.com)
