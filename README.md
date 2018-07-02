@@ -146,7 +146,7 @@ Use your browser(CTL-F) to search by country code.
 - [Grave Finder](https://www.findagrave.com/index.html)
 - [Legacy](http://www.legacy.com/)
 - [DOB Search - Death records](http://www.dobsearch.com/death-records/)
-- [https://www.familysearch.org/search/collection/1202535](Social Security Death Index)
+- [Social Security Death Index)](https://www.familysearch.org/search/collection/1202535)
 
 #### Voter data (US)
 - [Voter Records](https://voterrecords.com)
@@ -177,6 +177,7 @@ Use your browser(CTL-F) to search by country code.
 - [Free Public Records](http://publicrecords.onlinesearches.com)
 
 #### Domain and IP Research
+- [Hurrican Electric](https://bgp.he.net/)
 - [Whoishostingthis](https://www.whoishostingthis.com)
 - [Onyphe](https://www.onyphe.io/)
 - [Accuranker](https://www.accuranker.com/)
@@ -309,7 +310,7 @@ Use your browser(CTL-F) to search by country code.
 - [Free Map Tools](https://www.freemaptools.com)
 - [Terra pattern](http://www.terrapattern.com/)
 - [Old Maps](http://www.oldmapsonline.org)
-- [Map Devleopers](https://www.mapdevelopers.com/google-map-search.php)  
+- [Map Devleopers](https://www.mapdevelopers.com/google-map-search.php)
 - [Mapillary](https://www.mapillary.com/)
 - [Land Information (NZ)](https://data.linz.govt.nz/data/)
 - [Great Lakes Wildlife](http://maps.glifwc.org/)
@@ -616,7 +617,7 @@ Use your browser(CTL-F) to search by country code.
 - [True Caller](https://www.truecaller.com/)
 - [Free Carrier Lookup](http://freecarrierlookup.com/)
 - [bmobile.in (India)](https://bmobile.in/)
-- [Phone Validator (US)](http://www.phonevalidator.com)  
+- [Phone Validator (US)](http://www.phonevalidator.com)
 - [That's Them](http://thatsthem.com)
 - [Burner Challenge](https://challenge.burnerapp.com)
 - [Next Caller](https://nextcaller.com/)
