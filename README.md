@@ -146,7 +146,7 @@ Use your browser(CTL-F) to search by country code.
 - [Grave Finder](https://www.findagrave.com/index.html)
 - [Legacy](http://www.legacy.com/)
 - [DOB Search - Death records](http://www.dobsearch.com/death-records/)
-- [Social Security Death Index)](https://www.familysearch.org/search/collection/1202535)
+- [Social Security Death Index](https://www.familysearch.org/search/collection/1202535)
 
 #### Voter data (US)
 - [Voter Records](https://voterrecords.com)
