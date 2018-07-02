@@ -6,6 +6,12 @@ Special thanks to everyone @ https://osint.team
 
 Use your browser(CTL-F) to search by country code.
 
+### Alternative OSINT Resources
+* [OSINT Framework](http://osintframework.com)
+* [Technisette](https://start.me/p/b56G5Q/search-engines)
+
+---
+
 * [Avatar](#avatar)
 * [People Investigations](#people-investigations)
 * [Deceased Searching](#deceased-searching)
