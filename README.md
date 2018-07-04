@@ -510,8 +510,6 @@ Use your browser(CTL-F) to search by country code.
 - [CampusCareerCenter](http://www.campuscareercenter.com/)
 - [CareerBuilder](http://www.careerbuilder.com/)
 - [College Recruiter](https://www.collegerecruiter.com/)
-- [Craiglist](http://losangeles.craigslist.org/)
-- [Bed Page](https://www.bedpage.com/)
 - [Dice](http://www.dice.com/)
 - [Eluta](http://www.eluta.ca/) (CA)
 - [Eurojobs](https://www.eurojobs.com/)
@@ -644,12 +642,15 @@ Use your browser(CTL-F) to search by country code.
 #### Scam Emails
 - [Scamdex](http://www.scamdex.com)
 
-### Shopping
+### Shopping & Classifieds
 - [Flippity](http://www.flippity.com/)
 - [Fat Fingers](http://fatfingers.com/default.aspx)
 - [Sales Spider](https://www.salespider.com)
 - [Search All Junk](http://www.searchalljunk.com)
 - [Search Tempest](https://www.searchtempest.com/)
+- [Craiglist](http://www.craigslist.org/)
+- [Bed Page](https://www.bedpage.com/)
+- [Classified Ads](https://www.classifiedads.com/)
 
 #### Phone Numbers
 - [sync me](https://sync.me/)
