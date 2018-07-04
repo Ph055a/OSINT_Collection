@@ -298,6 +298,7 @@ Use your browser(CTL-F) to search by country code.
 - [hotgunz](http://www.hotgunz.com/search.php)
 - [Its Been Nicked](http://www.itsbeennicked.co.uk/)(UK)
 - [Stolen 911](https://stolen911.com/)
+- [Scrape Theft](https://www.scraptheftalert.com)
 
 #### Fact Checking
 - [Checkdesk](https://meedan.com/en/checkdesk)
