@@ -519,6 +519,7 @@ Use your browser(CTL-F) to search by country code.
 - [Lead Ferret](https://leadferret.com/search)
 - [Angel List](https://angel.co)
 - [Kompass](https://us.kompass.com/)
+- [Global Tenders](https://www.globaltenders.com/global-tenders-search)
 - [Owler](https://www.owler.com/)
 - [Brand Checker](https://brandchecker.com/)
 - [AllStocksLinks](http://www.allstocks.com/links)
