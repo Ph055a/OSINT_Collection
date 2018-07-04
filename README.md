@@ -518,6 +518,7 @@ Use your browser(CTL-F) to search by country code.
 #### Company Research
 - [Lead Ferret](https://leadferret.com/search)
 - [Angel List](https://angel.co)
+- [Kompass](https://us.kompass.com/)
 - [Brand Checker](https://brandchecker.com/)
 - [AllStocksLinks](http://www.allstocks.com/links)
 - [712](https://www.118712.fr/) (FR)
