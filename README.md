@@ -282,6 +282,7 @@ Use your browser(CTL-F) to search by country code.
 - [Court House Direct](http://www.courthousedirect.com)
 - [The House Shop](https://www.thehouseshop.com/property-for-sale](UK)
 - [Funga](https://www.funda.nl/)(NL)
+- [Jaap](https://www.jaap.nl/)(NL)
 - [iLocate](https://www.ilocate.nl/)(NL)
 
 #### Stolen Property
