@@ -1048,6 +1048,7 @@ Use your browser(CTL-F) to search by country code.
 - [Mblocks](https://moneroblocks.info)
 - [Chain Radar](https://chainradar.com)
 - [Xmrchain](https://xmrchain.net)
+- [Monero Wallet Hunter](https://www.xmrhunter.com/)
 - [Bitref](https://bitref.com/)
 - [Wallet Explorer](https://www.walletexplorer.com)
 - [Live Coin Watch](https://www.livecoinwatch.com/)
