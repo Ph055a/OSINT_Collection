@@ -40,8 +40,8 @@ Use your browser(CTL-F) to search by country code.
 * [Events](#events)
 * [Expert Search](#expert-search)
 * [E-mail Search / Check](#e-mail-search--check)
-* [Scam Emails](#scam-emails)
-* [Shopping](#Shopping)
+* [Scams](#scams)
+* [Shopping](#Shopping-Classifieds)
 * [Phone Numbers](#phone-numbers)
 * [Username Check](#username-check)
 * [Tumblr](#tumblr)
@@ -296,6 +296,7 @@ Use your browser(CTL-F) to search by country code.
 - [Art Loss (Stolen Art)](http://www.artloss.com)
 - [iamstolen (UK)](http://www.iamstolen.com/)
 - [hotgunz](http://www.hotgunz.com/search.php)
+- [Its Been Nicked](http://www.itsbeennicked.co.uk/)(UK)
 
 #### Fact Checking
 - [Checkdesk](https://meedan.com/en/checkdesk)
@@ -640,8 +641,9 @@ Use your browser(CTL-F) to search by country code.
 - [Toofr](https://www.toofr.com/)
 - [Verify Email](http://verify-email.org/)
 
-#### Scam Emails
+#### Scams
 - [Scamdex](http://www.scamdex.com)
+- [BBB Scam Tracker](https://www.bbb.org/scamtracker/us/)
 
 ### Shopping & Classifieds
 - [Flippity](http://www.flippity.com/)
