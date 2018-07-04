@@ -577,6 +577,7 @@ Use your browser(CTL-F) to search by country code.
 
 #### Expert Search
 - [Academia](http://academia.edu/)
+- [Idealist](https://www.idealist.org)
 - [AllExperts](http://www.allexperts.com/)
 - [ExpertiseFinder](http://www.expertisefinder.com/)
 - [ExpertGuide](http://www.expertguide.com.au/)
