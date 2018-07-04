@@ -304,6 +304,7 @@ Use your browser(CTL-F) to search by country code.
 - [Database Today](https://www.databases.today)
 - [DataBreaches](https://www.databreaches.net/)
 - [Gawker Hack](https://labs.duo.com/gawker)
+- [Ashley Madison](https://ashley.cynic.al/)
 
 #### Geospatial
 - [Digital Globe](https://discover.digitalglobe.com/)
