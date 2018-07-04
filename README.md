@@ -1034,7 +1034,8 @@ Use your browser(CTL-F) to search by country code.
 - [Flightwise](http://flightwise.com/)
 - [Airport Webcams](http://airportwebcams.net/)
 - [Live ATC](https://www.liveatc.net/)
-- [Radar box](https://www.radarbox24.com)
+- [Radar Box](https://www.radarbox24.com)
+- [Radar Zhaw](http://radar.zhaw.ch/AirTraffic.html)
 - [Virtual Radar](http://global.adsbexchange.com/VirtualRadar)
 - [FAA Registry](http://registry.faa.gov/aircraftinquiry/NNum_Inquiry.aspx)
 
