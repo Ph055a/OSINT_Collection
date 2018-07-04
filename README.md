@@ -611,6 +611,7 @@ Use your browser(CTL-F) to search by country code.
 - [Email Validator](https://chema.ga/emailvalidator/index.php)
 - [Email Validator Tool](http://e-mailvalidator.com/)
 - [Have I Been Pwned](https://haveibeenpwned.com/)
+- [Have I Been Sold](https://haveibeensold.app/)
 - [MailTester](http://mailtester.com/testmail.php)
 - [ReverseGenie](http://www.reversegenie.com/email.php)
 - [TCIPUTILS.com Email Test](http://www.tcpiputils.com/email-test)
