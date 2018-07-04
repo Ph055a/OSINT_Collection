@@ -41,7 +41,7 @@ Use your browser(CTL-F) to search by country code.
 * [Expert Search](#expert-search)
 * [E-mail Search / Check](#e-mail-search--check)
 * [Scam Emails](#scam-emails)
-* [Ebay](#ebay)
+* [Shopping](#Shopping)
 * [Phone Numbers](#phone-numbers)
 * [Username Check](#username-check)
 * [Tumblr](#tumblr)
@@ -644,9 +644,10 @@ Use your browser(CTL-F) to search by country code.
 #### Scam Emails
 - [Scamdex](http://www.scamdex.com)
 
-### Ebay
+### Shopping
 - [Flippity](http://www.flippity.com/)
 - [Fat Fingers](http://fatfingers.com/default.aspx)
+- [Sales Spider](https://www.salespider.com)
 
 #### Phone Numbers
 - [sync me](https://sync.me/)
