@@ -298,7 +298,9 @@ Use your browser(CTL-F) to search by country code.
 - [hotgunz](http://www.hotgunz.com/search.php)
 - [Its Been Nicked](http://www.itsbeennicked.co.uk/)(UK)
 - [Stolen 911](https://stolen911.com/)
-- [Scrape Theft](https://www.scraptheftalert.com)
+- [Scrap Theft](https://www.scraptheftalert.com)
+- [Find Stolen Art](http://www.findstolenart.com)
+- [ICOM - Red List](http://icom.museum/resources/red-lists-database)
 
 #### Fact Checking
 - [Checkdesk](https://meedan.com/en/checkdesk)
@@ -1029,6 +1031,7 @@ Use your browser(CTL-F) to search by country code.
 - [Plane Flight Tracker](http://www.planeflighttracker.com)
 - [Flight Aware(Historical)](https://flightaware.com/live/flight_event_history.rvt?ident=)
 - [Flight Radar 24](http://flightradar24.com)
+- [Flightwise](http://flightwise.com/)
 - [Airport Webcams](http://airportwebcams.net/)
 - [Live ATC](https://www.liveatc.net/)
 - [Radar box](https://www.radarbox24.com)
