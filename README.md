@@ -238,6 +238,7 @@ Use your browser(CTL-F) to search by country code.
 - [Open Site Explorer](https://moz.com/researchtools/ose)
 - [PageGlimpse](http://www.pageglimpse.com/)
 - [Pentest-Tools.com](https://pentest-tools.com/information-gathering/google-hacking)
+- [Pulsedive](https://pulsedive.com)
 - [Quantcast](https://www.quantcast.com/)
 - [Quick Sprout](https://www.quicksprout.com/)
 - [RedirectDetective](http://redirectdetective.com/)
