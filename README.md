@@ -517,6 +517,7 @@ Use your browser(CTL-F) to search by country code.
 
 #### Company Research
 - [Lead Ferret](https://leadferret.com/search)
+- [Angel List](https://angel.co)
 - [AllStocksLinks](http://www.allstocks.com/links)
 - [712](https://www.118712.fr/) (FR)
 - [Battle of the Internet Giants](http://pennystocks.la/battle-of-internet-giants)
