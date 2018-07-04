@@ -279,7 +279,9 @@ Use your browser(CTL-F) to search by country code.
 - [Padmapper](https://www.padmapper.com)
 - [Rehold](https://rehold.com/)
 - [Court House Direct](http://www.courthousedirect.com)
-- [https://www.thehouseshop.com/property-for-sale](The House Shop)(UK)
+- [The House Shop](https://www.thehouseshop.com/property-for-sale](UK)
+- [Funga](https://www.funda.nl/)(NL)
+- [iLocate](https://www.ilocate.nl/)(NL)
 
 #### Stolen Property
 - [Art Loss (Stolen Art)](http://www.artloss.com)
