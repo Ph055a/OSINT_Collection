@@ -86,6 +86,7 @@ Use your browser(CTL-F) to search by country code.
 #### People Investigations
 - [Profile Engine](http://profileengine.com/)
 - [The Knot](https://www.theknot.com)
+- [Search Bug](https://www.searchbug.com)
 - [Catfish](https://socialcatfish.com)
 - [Neighbor Report](http://neighbor.report/)
 - [Next Door](https://nextdoor.com/)
