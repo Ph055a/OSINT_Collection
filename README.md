@@ -278,7 +278,8 @@ Use your browser(CTL-F) to search by country code.
 - [EasyStreet](http://streeteasy.com)
 - [Padmapper](https://www.padmapper.com)
 - [Rehold](https://rehold.com/)
-- [Court Hourse Direct](http://www.courthousedirect.com)
+- [Court House Direct](http://www.courthousedirect.com)
+- [https://www.thehouseshop.com/property-for-sale](The House Shop)(UK)
 
 #### Stolen Property
 - [Art Loss (Stolen Art)](http://www.artloss.com)
