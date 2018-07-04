@@ -303,6 +303,7 @@ Use your browser(CTL-F) to search by country code.
 - [Wiki Leaks](https://wikileaks.org/)
 - [Database Today](https://www.databases.today)
 - [DataBreaches](https://www.databreaches.net/)
+- [Gawker Hack](https://labs.duo.com/gawker)
 
 #### Geospatial
 - [Digital Globe](https://discover.digitalglobe.com/)
