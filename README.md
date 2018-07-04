@@ -600,6 +600,7 @@ Use your browser(CTL-F) to search by country code.
 
 #### E-mail Search / Check
 - [hacked-emails](https://hacked-emails.com/check_email)
+- [Public Email Records](http://publicemailrecords.com/)
 - [Find That Lead](https://findthatlead.com/)
 - [Spy Dialer](http://www.spydialer.com/)
 - [BriteVerify Email Verification](http://www.briteverify.co.uk/)
