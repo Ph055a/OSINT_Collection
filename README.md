@@ -439,6 +439,7 @@ Use your browser(CTL-F) to search by country code.
 - [Google Image](https://images.google.com/)
 - [Gramfeed](http://www.gramfeed.com/)
 - [Image Identification Project](https://www.imageidentify.com/)
+- [Reverse Image Search](http://www.reverse-image-search.org/)
 - [Image Raider](https://www.imageraider.com/)
 - [KarmaDecay](http://karmadecay.com/)
 - [Lycos Image Search](http://search.lycos.com/images)
@@ -535,6 +536,8 @@ Use your browser(CTL-F) to search by country code.
 
 #### Company Research
 - [Lead Ferret](https://leadferret.com/search)
+- [Annual Reports](http://www.annualreports.com/)
+- [Sedar Company Search](https://www.sedar.com/search/search_en.htm)(CA)
 - [Angel List](https://angel.co)
 - [Kompass](https://us.kompass.com/)
 - [Global Tenders](https://www.globaltenders.com/global-tenders-search)
@@ -1036,6 +1039,8 @@ Use your browser(CTL-F) to search by country code.
 - [Live ATC](https://www.liveatc.net/)
 - [Radar Box](https://www.radarbox24.com)
 - [Radar Zhaw](http://radar.zhaw.ch/AirTraffic.html)
+- [http://webtrak5.bksv.com]()
+- [Airfield Search](http://www.pilotweb.aero/airfields/search-airfields)
 - [Virtual Radar](http://global.adsbexchange.com/VirtualRadar)
 - [FAA Registry](http://registry.faa.gov/aircraftinquiry/NNum_Inquiry.aspx)
 
@@ -1053,6 +1058,7 @@ Use your browser(CTL-F) to search by country code.
 - [Block Trail](https://www.blocktrail.com/BTC)
 - [Ether Chain](https://www.etherchain.org/)
 - [EtherScan](https://etherscan.io/)
+- [Token View](https://tokenview.com/)
 - [Mblocks](https://moneroblocks.info)
 - [Chain Radar](https://chainradar.com)
 - [Xmrchain](https://xmrchain.net)
