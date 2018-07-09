@@ -1059,6 +1059,7 @@ Use your browser(CTL-F) to search by country code.
 - [Ether Chain](https://www.etherchain.org/)
 - [EtherScan](https://etherscan.io/)
 - [Token View](https://tokenview.com/)
+- [Block Chair](https://blockchair.com/)
 - [Mblocks](https://moneroblocks.info)
 - [Chain Radar](https://chainradar.com)
 - [Xmrchain](https://xmrchain.net)
