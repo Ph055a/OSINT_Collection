@@ -885,6 +885,7 @@ Use your browser(CTL-F) to search by country code.
 
 #### Pastebins
 - [PastebinTrends](http://pastebin.com/trends)
+- [justpastit](https://justpaste.it)
 - [PasteLert](http://andrewmohawk.com/pasteLert)
 
 #### Code Search
