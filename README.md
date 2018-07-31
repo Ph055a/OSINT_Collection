@@ -951,6 +951,7 @@ Use your browser(CTL-F) to search by country code.
 - [Carrot2](http://search.carrot2.org/)
 - [EntityCube](http://entitycube.research.microsoft.com/)
 - [Cluuz](http://www.cluuz.com/)
+- [izito](https://www.izito.com/)
 - [Yippy](http://yippy.com/)
 
 #### Specialty Search Engines
