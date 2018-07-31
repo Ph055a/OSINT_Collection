@@ -763,6 +763,7 @@ Use your browser(CTL-F) to search by country code.
 - [Buzzweb](https://buzzweb.pro/)
 - [imgtoon](https://imgtoon.com)
 - [Gramspy](http://gramspy.com/)
+- [Storiesig](https://storiesig.com/)
 
 
 #### Telegram
