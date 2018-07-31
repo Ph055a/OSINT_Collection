@@ -765,7 +765,6 @@ Use your browser(CTL-F) to search by country code.
 - [Gramspy](http://gramspy.com/)
 - [Storiesig](https://storiesig.com/)
 
-
 #### Telegram
 - [tchannels](https://tchannels.me)
 
@@ -846,6 +845,7 @@ Use your browser(CTL-F) to search by country code.
 - [PlusFeed](http://plusfeed.frosas.net/)
 
 #### Facebook
+- [Social Searcher](https://www.social-searcher.com)
 - [ExtractFace](http://le-tools.com/ExtractFace.html#download)
 - [Fanpage Karma](http://www.fanpagekarma.com/)
 - [Facebook Search](http://search.fb.com/)
