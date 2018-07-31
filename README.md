@@ -751,6 +751,8 @@ Use your browser(CTL-F) to search by country code.
 - [Pixgram](www.pixgram.me)
 - [Tofo](http://tofo.me/)
 - [Websta](http://websta.me/)
+- [Buzzweb](https://buzzweb.pro/)
+
 
 #### Telegram
 - [tchannels](https://tchannels.me)
