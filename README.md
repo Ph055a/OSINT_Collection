@@ -448,6 +448,7 @@ Use your browser(CTL-F) to search by country code.
 - [imgur](http://imgur.com/)
 - [Clarify](http://clarify.io/)
 - [Flickr](https://secure.flickr.com/)
+- [Flicker Map](https://www.flickr.com/map)
 - [GoodSearch Image Search](http://www.goodsearch.com/search-image)
 - [Google Image](https://images.google.com/)
 - [Gramfeed](http://www.gramfeed.com/)
