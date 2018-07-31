@@ -407,6 +407,7 @@ Use your browser(CTL-F) to search by country code.
 - [123webcam](http://123webcam.com/)
 - [Webcams Travel](https://www.webcams.travel/)
 - [Webcam Network](http://www.the-webcam-network.com/)
+- [lookr](https://www.lookr.com/)
 
 #### Audio Streams
 - [Broadcastify](http://www.broadcastify.com/)
