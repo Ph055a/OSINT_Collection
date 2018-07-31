@@ -380,6 +380,7 @@ Use your browser(CTL-F) to search by country code.
 - [Aol Videos](http://on.aol.com/)
 - [Bing Videos](http://www.bing.com/?scope=video)
 - [Blinkx](http://www.blinkx.com/)
+- [Crowd Tangle](http://www.crowdtangle.com/videosearch)
 - [Clip Blast](http://www.clipblast.com/)
 - [DailyMotion](http://www.dailymotion.com/)
 - [Internet Archive: Open Source Videos](https://archive.org/details/opensource_movies)
@@ -409,6 +410,7 @@ Use your browser(CTL-F) to search by country code.
 - [Webcam Network](http://www.the-webcam-network.com/)
 - [lookr](https://www.lookr.com/)
 - [Webcam](https://webcam.nl) (NL)
+- [Facebook Live Map](https://www.facebook.com/livemap#)
 
 #### Audio Streams
 - [Broadcastify](http://www.broadcastify.com/)
