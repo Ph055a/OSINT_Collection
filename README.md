@@ -964,6 +964,7 @@ Use your browser(CTL-F) to search by country code.
 - [Million Short](https://millionshort.com/)
 - [WorldWideScience.org](http://worldwidescience.org/)
 - [Zanran](http://zanran.com/)
+- [Swiss Cows](https://swisscows.com/)
 - [http://bvsg.org](http://bvsg.org)
 
 #### Meta Search
