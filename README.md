@@ -966,7 +966,9 @@ Use your browser(CTL-F) to search by country code.
 - [WorldWideScience.org](http://worldwidescience.org/)
 - [Zanran](http://zanran.com/)
 - [Swiss Cows](https://swisscows.com/)
-- [http://bvsg.org](http://bvsg.org)
+- [bvsg.org](http://bvsg.org)
+- [webcitation](http://www.webcitation.org)
+- [AWS Buckets - Gray Hat Warfare](buckets.grayhatwarfare.com)
 
 #### Meta Search
 - [All-in-One](http://all-io.net/)
