@@ -268,6 +268,9 @@ Use your browser(CTL-F) to search by country code.
 - [ViewDNS.info](http://viewdns.info/)
 - [You Get Signal](http://www.yougetsignal.com/)
 - [Shared Count](http://www.sharedcount.com/)
+- [VirusTotal](https://www.virustotal.com/#/home/url)
+- [crt.sh](https://crt.sh)
+- [shodan](https://www.shodan.io)
 
 #### Analytics & Affiliate ID's
 - [Adsense History](https://www.timer4web.com/features/adsense-history)
