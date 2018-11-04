@@ -292,6 +292,7 @@ Use your browser(CTL-F) to search by country code.
 - [Domain Crawler](http://www.domaincrawler.com/)
 - [Domain History](http://www.domainhistory.net/)
 - [Domain Tools](http://whois.domaintools.com/)
+- [Domainsdb.info](https://domainsdb.info/)
 - [Easy whois](https://www.easywhois.com/)
 - [Exonera Tor](https://exonerator.torproject.org/)
 - [Follow.net](http://follow.net/)
