@@ -1,6 +1,6 @@
 ### Ph055a's OSINT Collection
 
-This was once listed as an Awesome List but has since changed it due to copycats.
+This was once listed as an **Awesome List** but has since changed it due to copycats.
 
 This is a maintained collection of free actionable resources for those conducting OSINT investigations. None of the links below should point to paid software or services, these are for actual OSINT investigations.
 
