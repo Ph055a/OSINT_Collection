@@ -626,7 +626,6 @@ Use your browser(CTL-F) to search by country code.
 - [UkrOpen](http://ukropen.net/)
 - [Social Stats](http://socialstats.ru/) (RU)
 - [Spotlight](http://spotlight.svezet.ru/) (RU)
-- [Target Hunter](https://targethunter.net/)
 - [Target Log](http://targetolog.com/)
 - [VK5](http://vk5.city4me.com/)
 - [VK Community Search](http://vk.com/communities)
