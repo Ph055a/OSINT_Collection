@@ -96,7 +96,6 @@ Use your browser(CTL-F) to search by country code.
 - [Ancestry](http://www.ancestry.com/)
 - [Canada411](http://www.canada411.ca/)
 - [Cedar](http://www.cedar.buffalo.edu/AdServ/person-search.html)
-- [Charlie App](https://charlieapp.com/)
 - [Classmates](http://www.classmates.com/)
 - [CrunchBase](http://www.crunchbase.com/)
 - [CVGadget](http://www.cvgadget.com/)
@@ -152,11 +151,6 @@ Use your browser(CTL-F) to search by country code.
 #### Voter data (US)
 - [Voter Records](https://voterrecords.com)
 - [DOB Search](https://www.dobsearch.com)
-- [Ohio Resident DB](https://ohioresidentdb.com)
-- [Colorado Resident DB](https://coloradoresidentdb.com/)
-- [Oklahoma Resident DB](https://oklahomaresidentdb.com)
-- [North Carolina Resident DB](https://northcarolinaresidentdb.com)
-- [Florida Resident DB](https://floridaresidentdb.com/)
 
 #### Arrests, Inmate & Court Search
 - [courtsystem.com](http://www.courtsystem.org/)
@@ -654,7 +648,6 @@ Use your browser(CTL-F) to search by country code.
 - [sixdegreesofwikipedia](https://www.sixdegreesofwikipedia.com/)
 
 #### Instagram
-- [Picodash](https://www.picodash.com/)
 - [Pixgram](www.pixgram.me)
 - [Tofo](http://tofo.me/)
 - [Websta](http://websta.me/)
@@ -756,7 +749,7 @@ Use your browser(CTL-F) to search by country code.
 - [Wolfram Alpha Facebook Report](http://www.wolframalpha.com/input/?i=facebook+report)
 - [Zesty Facebook Search](http://zesty.ca/facebook)
 
-#### Major Social Networks
+#### Social Networks
 - [Draugiem (Latvia)](https://www.draugiem.lv/) (.lv)
 - [Facebook](http://www.facebook.com/)
 - [Badoo](http://www.badoo.com/)
