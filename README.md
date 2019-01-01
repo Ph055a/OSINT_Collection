@@ -357,7 +357,6 @@ Use your browser(CTL-F) to search by country code.
 - [Image Raider](https://www.imageraider.com/)
 - [KarmaDecay](http://karmadecay.com/)
 - [Lycos Image Search](http://search.lycos.com/images)
-- [MyPicsMap](http://www.mypicsmap.com/)
 - [PhotoBucket](http://photobucket.com/)
 - [Picsearch](http://www.picsearch.com/)
 - [PicTriev](http://www.pictriev.com/)
