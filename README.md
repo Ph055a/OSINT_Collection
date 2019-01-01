@@ -353,7 +353,6 @@ Use your browser(CTL-F) to search by country code.
 - [Flicker Map](https://www.flickr.com/map)
 - [GoodSearch Image Search](http://www.goodsearch.com/search-image)
 - [Google Image](https://images.google.com/)
-- [Gramfeed](http://www.gramfeed.com/)
 - [Image Identification Project](https://www.imageidentify.com/)
 - [Reverse Image Search](http://www.reverse-image-search.org/)
 - [Image Raider](https://www.imageraider.com/)
