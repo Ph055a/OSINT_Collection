@@ -677,8 +677,6 @@ Use your browser(CTL-F) to search by country code.
 - [GeoSocial Footprint](http://geosocialfootprint.com/)
 - [GetTwitterID](http://gettwitterid.com/)
 - [Gigatweeter](http://gigatweeter.com/)
-- [Ground Signal](https://www.groundsignal.com/)
-- [HappyGrumpy](https://www.happygrumpy.com/)
 - [Harvard TweetMap](http://worldmap.harvard.edu/tweetmap)
 - [Hashtagify](http://hashtagify.me/)
 - [Hashtags.org](http://www.hashtags.org/)
