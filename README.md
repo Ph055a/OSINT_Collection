@@ -343,7 +343,6 @@ Use your browser(CTL-F) to search by country code.
 - [loc.alize](https://loc.alize.us)
 - [Revimg](http://www.revimg.com/)
 - [Image Brief](http://www.imagebrief.com)
-- [Small Seo Tools](http://smallseotools.com/reverse-image-search/)
 - [Baidu Images](http://image.baidu.com/)
 - [Ezgif](https://ezgif.com/reverse)
 - [imgops](http://imgops.com/)
