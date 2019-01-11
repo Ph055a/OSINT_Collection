@@ -342,6 +342,9 @@ Use your browser(CTL-F) to search by country code.
 - [file-search.info](https://file-search.info)
 - [filesearching](http://www.filesearching.com)
 - [filesloop](https://www.filesloop.com)
+- [search shared](https://www.searchshared.info/)
+- [PDF Search Engine](http://www.pdfsearchengine.net)
+- [mmnt.net](http://www.mmnt.net/)
 
 #### Image Search
 - [Creative Commons](https://ccsearch.creativecommons.org/)
