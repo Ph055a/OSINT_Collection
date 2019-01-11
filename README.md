@@ -681,7 +681,6 @@ Use your browser(CTL-F) to search by country code.
 - [Hashtagify](http://hashtagify.me/)
 - [Hashtags.org](http://www.hashtags.org/)
 - [introduce](http://www.introduceapp.me/)
-- [InTweets](http://intweets.com/)
 - [Mentionmapp](http://mentionmapp.com/)
 - [ManageFlitter](http://manageflitter.com/)
 - [My Top Tweet](https://mytoptweet.com/)
