@@ -280,6 +280,7 @@ Use your browser(CTL-F) to search by country code.
 
 #### Video Search
 - [Aol Videos](http://on.aol.com/)
+- [Mefeedia](http://www.mefeedia.com)
 - [Bing Videos](http://www.bing.com/?scope=video)
 - [Blinkx](http://www.blinkx.com/)
 - [Crowd Tangle](http://www.crowdtangle.com/videosearch)
