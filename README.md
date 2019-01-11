@@ -672,7 +672,6 @@ Use your browser(CTL-F) to search by country code.
 - [Fake Follower Check](https://fakers.statuspeople.com/)
 - [First Tweet](http://ctrlq.org/first)
 - [Foller.me](http://foller.me/)
-- [FollowCheck](http://followcheck.com/)
 - [Followerwonk](http://followerwonk.com/)
 - [Geochirp](http://www.geochirp.com/)
 - [GeoSocial Footprint](http://geosocialfootprint.com/)
