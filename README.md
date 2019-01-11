@@ -336,9 +336,12 @@ Use your browser(CTL-F) to search by country code.
 - [free-ocr.com](free-ocr.com)
 - [thexifer.net](https://www.thexifer.net/)
 
-#### File Metadata
+#### File Search & Metadata
 - [Meta Shield](https://metashieldclean-up.elevenpaths.com/)
 - [Get-Metadata](https://www.get-metadata.com/)
+- [file-search.info](https://file-search.info)
+- [filesearching](http://www.filesearching.com)
+- [filesloop](https://www.filesloop.com)
 
 #### Image Search
 - [Creative Commons](https://ccsearch.creativecommons.org/)
