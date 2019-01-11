@@ -285,6 +285,7 @@ Use your browser(CTL-F) to search by country code.
 - [Crowd Tangle](http://www.crowdtangle.com/videosearch)
 - [Clip Blast](http://www.clipblast.com/)
 - [DailyMotion](http://www.dailymotion.com/)
+- [Dogpile](http://www.dogpile.com/?qc=video)
 - [Internet Archive: Open Source Videos](https://archive.org/details/opensource_movies)
 - [LiveLeak](http://www.liveleak.com/)
 - [Metacafe](http://www.metacafe.com/)
