@@ -460,7 +460,6 @@ Use your browser(CTL-F) to search by country code.
 - [Battle of the Internet Giants](http://pennystocks.la/battle-of-internet-giants)
 - [Better Business Bureau](http://www.bbb.org/)
 - [Bizeurope](http://www.bizeurope.com/)
-- [Biznar](http://biznar.com/biznar/desktop/en/lightblue/search.html)
 - [Bloomberg](http://www.bloomberg.com/research/company/overview/overview.asp)
 - [Business Source](https://www.ebscohost.com/academic/business-source-complete)
 - [Canadian Business Research](https://www.canada.ca/en/services/business/research.html)
