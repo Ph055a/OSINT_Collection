@@ -326,6 +326,7 @@ Use your browser(CTL-F) to search by country code.
 - [FotoForensics](http://www.fotoforensics.com/)
 - [imgops](http://imgops.com/)
 - [Gbimg.org](http://gbimg.org/)
+- [Remove Background](https://www.remove.bg/)
 - [Izitru](http://www.izitru.com/)
 - [Jeffreys Image Metadata Viewer](http://regex.info//exif.cgi)
 - [Metaviewer](https://metadataviewer.herokuapp.com)
