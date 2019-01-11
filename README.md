@@ -289,7 +289,6 @@ Use your browser(CTL-F) to search by country code.
 - [LiveLeak](http://www.liveleak.com/)
 - [Metacafe](http://www.metacafe.com/)
 - [Metatube](http://www.metatube.com/)
-- [Montage](https://montage.storyful.com/)
 - [Archive TV News](https://archive.org/details/tv)
 - [Vimeo](https://vimeo.com/)
 - [Yahoo Video Search](http://video.search.yahoo.com/)
