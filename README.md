@@ -15,7 +15,7 @@ Use your browser(CTL-F) to search by country code.
     - [Voter data (US)](#voter-data-us)
     - [Arrests, Inmate & Court Search](#arrests-inmate--court-search)
     - [Analytics & Affiliate ID's](#analytics--affiliate-ids)
-    - [Plagiarism](#plagiarism)
+    - [Plagiarism](#plagiarism--fakes)
     - [Real Estate](#real-estate)
     - [Stolen Property](#stolen-property)
     - [Fact Checking](#fact-checking)
@@ -178,8 +178,9 @@ Use your browser(CTL-F) to search by country code.
 - [PB DB](http://pub-db.com)
 - [Same ID](http://sameid.net/)
 
-#### Plagiarism
+#### Plagiarism & Fakes
 - [SEO Plagiarism](https://smallseotools.com/plagiarism-checker)
+- [Fake Spot](https://www.fakespot.com/)
 
 #### Real Estate
 - [HomeMetry](https://homemetry.com/)
