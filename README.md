@@ -922,6 +922,7 @@ Use your browser(CTL-F) to search by country code.
 - [SlideShare](http://www.slideshare.net/)
 - [Slideworld](http://www.slideworld.com/)
 - [soPDF.com](http://www.sopdf.com/)
+- [Document Cloud](https://www.documentcloud.org)
 
 #### Forums and Discussion Boards Search
 - [Boardreader](http://boardreader.com/)
