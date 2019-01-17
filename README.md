@@ -77,6 +77,7 @@ Use your browser(CTL-F) to search by country code.
 #### Avatar
 - [Gravatar Search](https://en.gravatar.com/site/check/)
 #### People Investigations
+- [hauziz](https://hauziz.com/)
 - [Private Eye](https://www.privateeye.com)
 - [Profile Engine](http://profileengine.com/)
 - [The Knot](https://www.theknot.com)
