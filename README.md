@@ -588,6 +588,7 @@ Use your browser(CTL-F) to search by country code.
 - [Open Cnam](https://www.opencnam.com/)
 - [Who Called Me](https://www.whocalledme.com)
 - [inteltechniques Phone Tools](https://inteltechniques.com/osint/telephone.html)
+- [Nuwber](https://nuwber.com/)
 
 #### Username Check
 - [Check User Names](http://www.checkusernames.com/)
