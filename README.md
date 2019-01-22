@@ -667,6 +667,7 @@ Use your browser(CTL-F) to search by country code.
 
 #### Twitter
 - [qrt tweets](http://qtrtweets.com/twitter/)
+- [Twipu](http://www.twipu.com/)
 - [onemilliontweetmap](https://onemilliontweetmap.com)
 - [Twitter Fall](https://twitterfall.com/)
 - [Mapd Tweet Map](https://www.mapd.com/demos/tweetmap/)
