@@ -1019,6 +1019,7 @@ Use your browser(CTL-F) to search by country code.
 - [Know Your Meme](https://knowyourmeme.com)
 - [Meme Center](https://www.memecenter.com)
 - [9gag](https://9gag.com/)
+- [Patriot Minear](https://patriotminear.com) (Right-Wing)
 
 ### Post / Mail
 - [Track Trace Post](http://www.track-trace.com/post)
