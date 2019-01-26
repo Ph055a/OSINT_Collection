@@ -387,7 +387,7 @@ Use your browser(CTL-F) to search by country code.
 - [Bing Translator](http://www.bing.com/translator)
 - [Dict.cn](http://dict.cn/)
 - [Dictionary.com: Translation](http://translate.reference.com/)
--[FreeTranslation](http://www.freetranslation.com/)
+- [FreeTranslation](http://www.freetranslation.com/)
 - [Free Translator](http://www.free-translator.com/)
 - [Free Website Translation](http://free-website-translation.com/)
 - [Frengly](http://frengly.com/)
@@ -644,6 +644,7 @@ Use your browser(CTL-F) to search by country code.
 - [SnoopSnoo](http://snoopsnoo.com/)
 - [Redective](http://www.redective.com/)
 - [Redditlist](http://redditlist.com/)
+- [Reddit Search](https://redditsearch.io/)
 
 #### LinkedIn
 - [socialab](http://www.socilab.com/#home)
