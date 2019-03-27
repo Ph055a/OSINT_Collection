@@ -379,6 +379,7 @@ Use your browser(CTL-F) to search by country code.
 - [Yahoo Image Search](https://images.search.yahoo.com/)
 - [Yandex Images](https://www.yandex.com/images)
 - [Startpage Image Search](https://www.startpage.com/eng/pics.html?t=air#hmb)
+- [searchface.ru](http://searchface.ru/)
 
 #### Translation
 - [2lingual](http://www.2lingual.com/)
