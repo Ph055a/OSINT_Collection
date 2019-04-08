@@ -792,7 +792,6 @@ Use your browser(CTL-F) to search by country code.
 - [Hashtatit](http://www.hashatit.com/)
 - [Klear](http://klear.com/)
 - [Klout](http://klout.com/)
-- [Netvibes](http://www.netvibes.com/)
 - [OpinionCrawl](http://www.opinioncrawl.com/)
 - [SociaBlade](http://socialblade.com/)
 - [Social Mention](http://socialmention.com/)
