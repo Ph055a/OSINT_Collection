@@ -48,6 +48,7 @@ Use your browser(CTL-F) to search by country code.
 - [Instagram](#instagram)
 - [Telegram](#telegram)
 - [Twitter](#twitter)
+- [Discord](#discord)
 - [Snap Chat](#snap-chat)
 - [Google+](#google)
 - [Facebook](#facebook)
@@ -734,6 +735,9 @@ Use your browser(CTL-F) to search by country code.
 - [TWUBS Twitter Chat](http://twubs.com/twitter-chats)
 - [Schedule Warble](https://warble.co/)
 - [Block Together](http://blocktogether.org)
+
+#### Discord
+- [Dis.cool](https://dis.cool)
 
 #### Snap Chat
 - [Find my snap](http://findmysnap.com/)
