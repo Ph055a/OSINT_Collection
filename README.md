@@ -546,6 +546,7 @@ Use your browser(CTL-F) to search by country code.
 - [TRExpertWitness](https://trexpertwitness.com/)
 
 #### E-mail Search / Check
+- [EmailRep](https://emailrep.io/)
 - [hacked-emails](https://hacked-emails.com/check_email)
 - [Public Email Records](http://publicemailrecords.com/)
 - [Find That Lead](https://findthatlead.com/)
