@@ -673,6 +673,7 @@ Use your browser(CTL-F) to search by country code.
 
 #### Telegram
 - [tchannels](https://tchannels.me)
+- [Buzz.im](https://search.buzz.im/)
 
 #### Twitter
 - [qrt tweets](http://qtrtweets.com/twitter/)
