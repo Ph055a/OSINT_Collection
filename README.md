@@ -674,6 +674,7 @@ Use your browser(CTL-F) to search by country code.
 #### Telegram
 - [tchannels](https://tchannels.me)
 - [Buzz.im](https://search.buzz.im/)
+- [Google CSE (Telegram)](https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1)
 
 #### Twitter
 - [qrt tweets](http://qtrtweets.com/twitter/)
