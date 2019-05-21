@@ -180,7 +180,6 @@ Use your browser(CTL-F) to search by country code.
 - [Free Public Records](http://publicrecords.onlinesearches.com)
 
 #### Analytics & Affiliate ID's
-- [Same ID](http://sameid.net/)
 - [SpyOnWeb](http://spyonweb.com/)
 
 #### Plagiarism & Fakes
