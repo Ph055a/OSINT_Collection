@@ -352,6 +352,7 @@ Use your browser(CTL-F) to search by country code.
 - [search shared](https://www.searchshared.info/)
 - [PDF Search Engine](http://www.pdfsearchengine.net)
 - [mmnt.net](http://www.mmnt.net/)
+- [File Chef](http://filechef.com)
 
 #### Image Search
 - [Creative Commons](https://ccsearch.creativecommons.org/)
