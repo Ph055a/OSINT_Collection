@@ -349,10 +349,11 @@ Use your browser(CTL-F) to search by country code.
 - [file-search.info](https://file-search.info)
 - [filesearching](http://www.filesearching.com)
 - [filesloop](https://www.filesloop.com)
-- [search shared](https://www.searchshared.info/)
+- [Search Shared](https://www.searchshared.info/)
 - [PDF Search Engine](http://www.pdfsearchengine.net)
 - [mmnt.net](http://www.mmnt.net/)
 - [File Chef](http://filechef.com)
+- [Palined](http://www.palined.com/)
 
 #### Image Search
 - [Creative Commons](https://ccsearch.creativecommons.org/)
