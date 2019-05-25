@@ -667,6 +667,7 @@ Use your browser(CTL-F) to search by country code.
 - [Tofo](http://tofo.me/)
 - [Websta](http://websta.me/)
 - [Buzzweb](https://buzzweb.pro/)
+- [Insta Stalker](https://insta-stalker.com)
 - [imgtoon](https://imgtoon.com)
 - [Gramspy](http://gramspy.com/)
 - [Storiesig](https://storiesig.com/)
