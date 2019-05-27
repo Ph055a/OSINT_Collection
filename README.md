@@ -643,6 +643,7 @@ Use your browser(CTL-F) to search by country code.
 - [UrkFace](http://ukrface.com.ua) (UA)
 
 #### Reddit
+- [Resavr](https://www.resavr.com)
 - [Imgur](http://imgur.com/)
 - [Metareddit](http://metareddit.com/)
 - [Reddit Archive](http://www.redditarchive.com/)
