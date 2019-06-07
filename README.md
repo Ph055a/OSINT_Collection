@@ -597,7 +597,6 @@ Use your browser(CTL-F) to search by country code.
 - [fone finder](http://www.fonefinder.net)
 - [Open Cnam](https://www.opencnam.com/)
 - [Who Called Me](https://www.whocalledme.com)
-- [inteltechniques Phone Tools](https://inteltechniques.com/osint/telephone.html)
 - [Nuwber](https://nuwber.com/)
 
 #### Username Check
@@ -827,7 +826,6 @@ Use your browser(CTL-F) to search by country code.
 - [PastebinTrends](http://pastebin.com/trends)
 - [justpastit](https://justpaste.it)
 - [PasteLert](http://andrewmohawk.com/pasteLert)
-- [Intel Techniques Paste](https://inteltechniques.com/osint/menu.pastebins.html)
 
 #### Code Search
 - [NerdyData](https://search.nerdydata.com/)
@@ -1064,7 +1062,6 @@ Use your browser(CTL-F) to search by country code.
 - [IBAN checker](https://www.iban.com/)
 
 #### Multi-Tools
-- [Intel Techniques Tools](https://inteltechniques.com/menu.html)
 - [DMI Tools](https://wiki.digitalmethods.net/Dmi/ToolDatabase)
 - [Black Book Online](http://www.blackbookonline.info)
 - [Melissa Data](http://www.melissadata.com/lookups/index.htm)
