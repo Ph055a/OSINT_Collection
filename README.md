@@ -228,6 +228,8 @@ Use your browser(CTL-F) to search by country code.
 #### Censorship, Takedowns, Copyright
 - [Google Copyright Takedowns](https://www.google.com/transparencyreport/removals/copyright/explore/?)
 - [Lumen Database](https://lumendatabase.org/)
+- [Free Weibo](https://freeweibo.com/)
+- [Apple Censorship](https://applecensorship.com/)
 
 #### Leaks
 - [Crytome](https://cryptome.org/)
