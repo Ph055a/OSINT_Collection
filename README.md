@@ -1030,6 +1030,7 @@ Use your browser(CTL-F) to search by country code.
 - [Vin-Info](https://uk.vin-info.com) (UK)
 
 #### Marine & Cargo Tracking
+- [Fleetmon](https://www.fleetmon.com)
 - [Marine Traffic](http://www.marinetraffic.com)
 - [Vessel Tracker](http://www.vesseltracker.com)
 - [Vessel Finder](https://www.vesselfinder.com)
