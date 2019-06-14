@@ -225,6 +225,7 @@ Use your browser(CTL-F) to search by country code.
 - [Snopes](http://www.snopes.com/)
 - [Verification Handbook](http://verificationhandbook.com/)
 - [Politifact](http://www.politifact.com/)
+- [Factual Search](https://factualsearch.news)
 
 #### Censorship, Takedowns, Copyright
 - [Google Copyright Takedowns](https://www.google.com/transparencyreport/removals/copyright/explore/?)
