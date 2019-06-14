@@ -178,6 +178,7 @@ Use your browser(CTL-F) to search by country code.
 - [NetTrace](https://www.nettrace.com.au/resource/search/people/) (AU)
 - [Search Systems](http://publicrecords.searchsystems.net)
 - [Free Public Records](http://publicrecords.onlinesearches.com)
+- [The Inmate Search](https://theinmatesearch.org/)
 
 #### Analytics & Affiliate ID's
 - [SpyOnWeb](http://spyonweb.com/)
