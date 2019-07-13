@@ -973,6 +973,7 @@ Use your browser(CTL-F) to search by country code.
 - [Sun rise, noon, and set time and direction.](https://sollumis.com/)
 - [SunEarthTools.com](http://www.sunearthtools.com/)
 - [Astronomy - Sun - Moon - Eclipses](https://www.timeanddate.com/astronomy/)
+- [3D Sun Path](http://andrewmarsh.com/apps/staging/sunpath3d.html)
 
 #### Flight Tracking
 - [Plane Finder](https://planefinder.net/)
