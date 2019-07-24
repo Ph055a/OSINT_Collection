@@ -772,6 +772,7 @@ Use your browser(CTL-F) to search by country code.
 - [SearchIsBack](https://searchisback.com/)
 - [Wallfux](https://www.wallflux.com/)
 - [Stalkscan](https://www.stalkscan.com/)
+- [Find My Facebook ID API](https://findmyfbid.in/)
 - [Wolfram Alpha Facebook Report](http://www.wolframalpha.com/input/?i=facebook+report)
 - [Zesty Facebook Search](http://zesty.ca/facebook)
 - [Facebook Intersect Search Tool](https://www.osintcombine.com/facebook-intersect-search-tool)
