@@ -673,10 +673,11 @@ Use your browser(CTL-F) to search by country code.
 - [Tofo](http://tofo.me/)
 - [Websta](http://websta.me/)
 - [Buzzweb](https://buzzweb.pro/)
-- [Insta Stalker](https://insta-stalker.com)
+- [The Insta Stalker](https://theinsta-stalker.com/)
 - [imgtoon](https://imgtoon.com)
 - [Gramspy](http://gramspy.com/)
 - [Storiesig](https://storiesig.com/)
+- [loadingram](https://loadingram.com)
 
 #### Telegram
 - [tchannels](https://tchannels.me)
