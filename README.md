@@ -671,11 +671,9 @@ Use your browser(CTL-F) to search by country code.
 #### Instagram
 - [Pixgram](www.pixgram.me)
 - [Tofo](http://tofo.me/)
-- [Websta](http://websta.me/)
 - [Buzzweb](https://buzzweb.pro/)
 - [The Insta Stalker](https://theinsta-stalker.com/)
 - [imgtoon](https://imgtoon.com)
-- [Gramspy](http://gramspy.com/)
 - [Storiesig](https://storiesig.com/)
 - [loadingram](https://loadingram.com)
 
