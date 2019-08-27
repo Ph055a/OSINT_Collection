@@ -545,7 +545,6 @@ Use your browser(CTL-F) to search by country code.
 - [Newswise](http://www.newswise.com/)
 - [Patent Attorneys/Agent Search](https://oedci.uspto.gov/OEDCI)
 - [PRNewswire](https://prnmedia.prnewswire.com/)
-- [ProfNet](http://www.prnewswire.com/profnet)
 - [ReseacherID](http://www.researcherid.com/)
 - [ScholarUniverse](http://www.scholaruniverse.com/)
 - [SheSource](http://www.shesource.org/)
