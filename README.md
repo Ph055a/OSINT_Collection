@@ -682,7 +682,7 @@ Use your browser(CTL-F) to search by country code.
 - [Buzz.im](https://search.buzz.im/)
 - [Google CSE (Telegram)](https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1)
 - [Tgstat](https://tgstat.ru/en/search)
-- [Telesco](https://telesco.pe/) (telesco.pe/<telegram-channel>)
+- [Telesco](https://telesco.pe/) (telesco.pe/telegram-channel-here)
 
 #### Twitter
 - [qrt tweets](http://qtrtweets.com/twitter/)
