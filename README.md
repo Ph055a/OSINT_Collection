@@ -798,6 +798,7 @@ Use your browser(CTL-F) to search by country code.
 - [Weibo (China)](http://weibo.com/)
 - [VKontakte](https://vk.com/)
 - [Care2](https://www.care2.com/)
+- [Nextdoor](https://nextdoor.com/)
 
 #### Social Media Search
 - [Addict-o-matic](http://addictomatic.com/)
