@@ -797,7 +797,7 @@ Use your browser(CTL-F) to search by country code.
 - [Twitter](https://twitter.com/)
 - [Weibo (China)](http://weibo.com/)
 - [VKontakte](https://vk.com/)
-- [Xing](https://www.xing.com/)
+- [Care2](https://www.care2.com/)
 
 #### Social Media Search
 - [Addict-o-matic](http://addictomatic.com/)
