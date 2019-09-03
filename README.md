@@ -310,6 +310,8 @@ Use your browser(CTL-F) to search by country code.
 - [YouTube](http://www.geosearchtool.com/)
 - [YouTube Data Viewer](https://www.amnestyusa.org/citizenevidence)
 - [Startpage Video Search](https://www.startpage.com/eng/video.html?t=air#hmb)
+- [Bitchute](https://www.bitchute.com/)
+- [dtube](https://d.tube/)
 
 #### Live Streams
 - [Earthcam](http://www.earthcam.com)
