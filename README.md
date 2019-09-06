@@ -823,7 +823,6 @@ Use your browser(CTL-F) to search by country code.
 - [4chan](http://www.4chan.org/)
 - [4plebs](http://archive.4plebs.org/)
 - [7chan](https://7chan.org/)
-- [8chan](https://8ch.net/)
 - [imagechan](http://www.imagechan.com/)
 - [raddle.me](https://raddle.me/)
 - [Hispachan](https://www.hispachan.org)
