@@ -891,7 +891,6 @@ Use your browser(CTL-F) to search by country code.
 - [2lingual Search](http://www.2lingual.com/)
 - [Biznar](http://biznar.com/)
 - [CiteSeerX](http://citeseer.ist.psu.edu/)
-- [FindTheCompany](http://www.findthecompany.com/)
 - [Digle](https://www.digle.com/)
 - [Google Custom Search](http://www.google.com/cse)
 - [Harmari (Unified Listings Search)](https://www.harmari.com/search/unified)
