@@ -506,7 +506,6 @@ Use your browser(CTL-F) to search by country code.
 - [Morningstar Research](http://library.morningstar.com/)
 - [Orbis directory](http://orbisdirectory.bvdinfo.com/version-20161014/OrbisDirectory/Companies)
 - [opencorporates](https://opencorporates.com/)
-- [Plunkett Research](http://www.plunkettresearchonline.com/)
 - [Scoot](http://www.scoot.co.uk/)
 - [SEMrush](https://www.semrush.com/)
 - [Serpstat](https://serpstat.com/)
