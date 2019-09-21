@@ -651,7 +651,6 @@ Use your browser(CTL-F) to search by country code.
 #### Reddit
 - [Resavr](https://www.resavr.com)
 - [Imgur](http://imgur.com/)
-- [Metareddit](http://metareddit.com/)
 - [Reddit Archive](http://www.redditarchive.com/)
 - [Reddit Investigator](http://www.redditinvestigator.com/)
 - [Reddit Metrics](http://redditmetrics.com/)
