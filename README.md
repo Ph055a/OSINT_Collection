@@ -599,7 +599,6 @@ Use your browser(CTL-F) to search by country code.
 - [bmobile.in (India)](https://bmobile.in/)
 - [Phone Validator (US)](http://www.phonevalidator.com)
 - [That's Them](http://thatsthem.com)
-- [Burner Challenge](https://challenge.burnerapp.com)
 - [Next Caller](https://nextcaller.com/)
 - [fone finder](http://www.fonefinder.net)
 - [Open Cnam](https://www.opencnam.com/)
