@@ -119,7 +119,6 @@ Use your browser(CTL-F) to search by country code.
 - [Genealogy Links](http://www.genealogylinks.net/)
 - [Hey Press](https://www.hey.press/) (Search for Journalists)
 - [Infobel](http://www.infobel.com/en/world)
-- [Infospace White Pages](http://infospace.com/home/white-pages)
 - [Interment](http://www.interment.net/data/search.htm)
 - [International White and Yellow Pages](http://www.wayp.com/)
 - [Itools](http://itools.com/search/people-search)
@@ -229,7 +228,6 @@ Use your browser(CTL-F) to search by country code.
 - [Factual Search](https://factualsearch.news)
 
 #### Censorship, Takedowns, Copyright
-- [Google Copyright Takedowns](https://www.google.com/transparencyreport/removals/copyright/explore/?)
 - [Lumen Database](https://lumendatabase.org/)
 - [Free Weibo](https://freeweibo.com/)
 - [Apple Censorship](https://applecensorship.com/)
@@ -265,7 +263,6 @@ Use your browser(CTL-F) to search by country code.
 - [Bing Maps](http://www.bing.com/maps)
 - [DualMaps](https://www.mapchannels.com/dualmaps6/map.htm?)
 - [Flash Earth](http://www.flashearth.com/)
-- [Follow Your World](https://followyourworld.appspot.com/)
 - [Google Earth](http://www.google.com/earth)
 - [Google Maps](https://www.google.com/maps)
 - [Google Maps Streetview Player](http://brianfolts.com/driver)
@@ -349,7 +346,6 @@ Use your browser(CTL-F) to search by country code.
 - [JPEGsnoop](https://sourceforge.net/projects/jpegsnoop)
 - [Metapicz](http://metapicz.com/)
 - [Lunapic](http://www194.lunapic.com/editor)
-- [free-ocr.com](free-ocr.com)
 - [thexifer.net](https://www.thexifer.net/)
 
 #### File Search & Metadata
@@ -432,7 +428,6 @@ Use your browser(CTL-F) to search by country code.
 - [Yandex Translate](https://translate.yandex.ru/)
 
 #### Keywords Research
-- [Google Keyword Suggest Tool](http://tools.seochat.com/tools/suggest-tool)
 - [Google Trends](https://www.google.com/trends)
 - [KeywordTool](http://keywordtool.io/)
 - [Keyword Spy](http://www.keywordspy.com/)
@@ -532,7 +527,6 @@ Use your browser(CTL-F) to search by country code.
 #### Expert Search
 - [Academia](http://academia.edu/)
 - [Idealist](https://www.idealist.org)
-- [AllExperts](http://www.allexperts.com/)
 - [ExpertiseFinder](http://www.expertisefinder.com/)
 - [ExpertGuide](http://www.expertguide.com.au/)
 - [Experts.com](http://www.experts.com/)
@@ -554,6 +548,7 @@ Use your browser(CTL-F) to search by country code.
 - [TRExpertWitness](https://trexpertwitness.com/)
 
 #### E-mail Search / Check
+- [Email Hunter](https://hunter.io/)
 - [EmailRep](https://emailrep.io/)
 - [hacked-emails](https://hacked-emails.com/check_email)
 - [Public Email Records](http://publicemailrecords.com/)
@@ -614,7 +609,6 @@ Use your browser(CTL-F) to search by country code.
 - [User Sherlock](http://www.usersherlock.com/)
 
 #### Tumblr
-- [Searchlr](http://searchlr.net/)
 - [Tumblr Search](http://www.tumblr.com/search)
 - [Tumblr Originals](http://www.studiomoh.com/fun/tumblr_originals/)
 
@@ -667,7 +661,6 @@ Use your browser(CTL-F) to search by country code.
 - [sixdegreesofwikipedia](https://www.sixdegreesofwikipedia.com/)
 
 #### Instagram
-- [Pixgram](www.pixgram.me)
 - [Tofo](http://tofo.me/)
 - [Buzzweb](https://buzzweb.pro/)
 - [The Insta Stalker](https://theinsta-stalker.com/)
@@ -832,7 +825,6 @@ Use your browser(CTL-F) to search by country code.
 - [tbpchan](https://tbpchan.net)
 
 #### Pastebins
-- [PastebinTrends](http://pastebin.com/trends)
 - [justpastit](https://justpaste.it)
 - [PasteLert](http://andrewmohawk.com/pasteLert)
 
@@ -842,7 +834,6 @@ Use your browser(CTL-F) to search by country code.
 - [Publicwww](https://publicwww.com/)
 
 #### General Search
-- [isearchfrom](isearchfrom.com)
 - [Advangle](http://advangle.com/)
 - [Privatelee](https://privatelee.com)
 - [Aol](http://search.aol.com/)
@@ -888,6 +879,7 @@ Use your browser(CTL-F) to search by country code.
 - [Yippy](http://yippy.com/)
 
 #### Specialty Search Engines
+- [Spyse](https://spyse.com/)
 - [2lingual Search](http://www.2lingual.com/)
 - [Biznar](http://biznar.com/)
 - [CiteSeerX](http://citeseer.ist.psu.edu/)
@@ -902,7 +894,6 @@ Use your browser(CTL-F) to search by country code.
 - [Swiss Cows](https://swisscows.com/)
 - [bvsg.org](http://bvsg.org)
 - [webcitation](http://www.webcitation.org)
-- [AWS Buckets - Gray Hat Warfare](buckets.grayhatwarfare.com)
 - [Symbol Hound](http://symbolhound.com/)
 
 #### Meta Search
@@ -948,7 +939,6 @@ Use your browser(CTL-F) to search by country code.
 - [Authorstream](http://www.authorstream.com/)
 - [Find-pdf-doc](http://www.findpdfdoc.com/)
 - [Free Full PDF](http://www.freefullpdf.com/)
-- [Hashdoc](https://www.hashdoc.com/)
 - [Offshore Leak Database](https://offshoreleaks.icij.org/)
 - [PasteLert](http://andrewmohawk.com/pasteLert/index.php)
 - [PDF Search Engine](http://www.pdfsearchengine.info/)
@@ -990,8 +980,6 @@ Use your browser(CTL-F) to search by country code.
 - [Airport Webcams](http://airportwebcams.net/)
 - [Live ATC](https://www.liveatc.net/)
 - [Radar Box](https://www.radarbox24.com)
-- [Radar Zhaw](http://radar.zhaw.ch/AirTraffic.html)
-- [http://webtrak5.bksv.com]()
 - [Airfield Search](http://www.pilotweb.aero/airfields/search-airfields)
 - [Virtual Radar](http://global.adsbexchange.com/VirtualRadar)
 - [FAA Registry](http://registry.faa.gov/aircraftinquiry/NNum_Inquiry.aspx)
@@ -1078,5 +1066,4 @@ Use your browser(CTL-F) to search by country code.
 - [Melissa Data](http://www.melissadata.com/lookups/index.htm)
 
 #### Other Interesting
-- [iknowwhatyoudownload](https://iknowwhatyoudownload.com/en/)
-- [Amazon Wish List Search](www.amazon.com/gp/registry/search)
+- [Findsubdomains](https://findsubdomains.com/)
