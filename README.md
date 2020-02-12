@@ -979,6 +979,7 @@ Use your browser(CTL-F) to search by country code.
 - [3D Sun Path](http://andrewmarsh.com/apps/staging/sunpath3d.html)
 
 #### Flight Tracking
+- [Open Flights](https://openflights.org/)
 - [Plane Finder](https://planefinder.net/)
 - [Plane Spotter](https://www.planespotters.net/)
 - [Flight Aware](http://flightaware.com/)
