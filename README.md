@@ -745,7 +745,7 @@ Use your browser(CTL-F) to search by country code.
 - [Block Together](http://blocktogether.org)
 
 #### Discord
-- [Dis.cool](https://dis.cool)
+- [tracr.co](https://tracr.co/)
 
 #### Snap Chat
 - [Find my snap](http://findmysnap.com/)
