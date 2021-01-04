@@ -761,7 +761,6 @@ Use your browser(CTL-F) to search by country code.
 - [Facebook Search](http://search.fb.com/)
 - [Facebook Search Tool](http://netbootcamp.org/facebook.html)
 - [FaceLIVE](https://www.facelive.org/)
-- [Find my Facebook ID](http://findmyfbid.com/)
 - [LikeAlyzer](http://likealyzer.com/)
 - [Lookup-ID.com](https://lookup-id.com/)
 - [SearchIsBack](https://searchisback.com/)
