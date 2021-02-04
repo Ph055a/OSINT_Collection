@@ -618,6 +618,7 @@ Use your browser(CTL-F) to search by country code.
 - [Name Checkr](http://www.namecheckr.com/)
 - [Username Check](http://www.usernamecheck.com/)
 - [User Sherlock](http://www.usersherlock.com/)
+- [Snoop Project](https://github.com/snooppr/snoop)
 
 #### Tumblr
 - [Tumblr Search](http://www.tumblr.com/search)
