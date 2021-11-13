@@ -258,7 +258,6 @@ Use your browser(CTL-F) to search by country code.
 - [USGS Earth Explorer](https://earthexplorer.usgs.gov/)
 - [ZeeMaps](https://www.zeemaps.com)
 - [Zoom Earth](https://zoom.earth/)
-- [Terra server](https://www.terraserver.com/)
 - [Free Map Tools](https://www.freemaptools.com)
 - [Terra pattern](http://www.terrapattern.com/)
 - [Old Maps](http://www.oldmapsonline.org)
