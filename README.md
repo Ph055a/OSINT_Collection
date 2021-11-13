@@ -4,8 +4,6 @@ This is a maintained collection of free actionable resources for those conductin
 
 **You can find the OSINT Team on Keybase**
 
-Use your browser(CTL-F) to search by country code.
-
 ### Menu
 - [Ph055a's OSINT Collection](#ph055as-osint-collection)
 - [Menu](#menu)
