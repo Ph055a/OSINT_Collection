@@ -10,7 +10,7 @@ This is a maintained collection of free actionable resources for those conductin
   - [Avatar](#avatar)
   - [People Investigations](#people-investigations)
   - [Deceased Searching](#deceased-searching)
-  - [Voter data (US)](#voter-data-us)
+- [Public Records](#public-records)
   - [Arrests, Inmate & Court Search](#arrests-inmate--court-search)
   - [Analytics & Affiliate ID's](#analytics--affiliate-ids)
   - [Plagiarism & Fakes](#plagiarism--fakes)
@@ -149,6 +149,7 @@ This is a maintained collection of free actionable resources for those conductin
 - [Zabasearch](http://www.zabasearch.com/)
 - [Zoominfo](http://www.zoominfo.com/)
 - [search4faces](https://search4faces.com/tt00/index.html)
+- [How many of me?](http://howmanyofme.com/)
 
 #### Deceased Searching
 - [Grave Finder](https://www.findagrave.com/index.html)
@@ -156,9 +157,8 @@ This is a maintained collection of free actionable resources for those conductin
 - [DOB Search - Death records](http://www.dobsearch.com/death-records/)
 - [Social Security Death Index](https://www.familysearch.org/search/collection/1202535)
 
-#### Voter data (US)
-- [Voter Records](https://voterrecords.com)
-- [DOB Search](https://www.dobsearch.com)
+### Public Records
+- [qPublic](https://qpublic.schneidercorp.com/)
 
 #### Arrests, Inmate & Court Search
 - [Arrests](http://www.arrests.org/)
@@ -292,6 +292,8 @@ This is a maintained collection of free actionable resources for those conductin
 - [Geo Names](http://www.geonames.org/)
 - [ArcGIS WayBack](https://livingatlas.arcgis.com/wayback/)
 - [Travic](https://tracker.geops.ch)
+- [SatelittesPro](https://satellites.pro/)
+- [intelliearth](https://intelliearth.harrisgeospatial.com/)
 
 #### Video Search
 - [invidio](https://invidio.site)
@@ -367,6 +369,7 @@ This is a maintained collection of free actionable resources for those conductin
 - [mmnt.net](http://www.mmnt.net/)
 - [File Chef](http://filechef.com)
 - [Palined](http://www.palined.com/)
+- [PDF Search](https://www.pdfsearch.io/)
 
 #### Image Search
 - [Creative Commons](https://ccsearch.creativecommons.org/)
