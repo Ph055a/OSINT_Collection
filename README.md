@@ -319,6 +319,7 @@ Use your browser(CTL-F) to search by country code.
 - [Startpage Video Search](https://www.startpage.com/eng/video.html?t=air#hmb)
 - [Bitchute](https://www.bitchute.com/)
 - [dtube](https://d.tube/)
+- [altcensored](https://www.altcensored.com/)
 
 #### Live Streams
 - [Earthcam](http://www.earthcam.com)
