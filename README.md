@@ -74,7 +74,6 @@ This is a maintained collection of free actionable resources for those conductin
 - [Post / Mail](#post--mail)
   - [IBAN](#iban)
   - [Multi-Tools](#multi-tools)
-  - [Other Interesting](#other-interesting)
 - [Darkweb](#darkweb)
 
 #### Avatar
@@ -619,6 +618,8 @@ This is a maintained collection of free actionable resources for those conductin
 - [Name Checkr](http://www.namecheckr.com/)
 - [Username Check](http://www.usernamecheck.com/)
 - [User Sherlock](http://www.usersherlock.com/)
+- [Whatsmyname](https://www.whatsmyname.app/)
+- [Name Combiner](https://namecombiner.com/)
 
 #### Tumblr
 - [Tumblr Search](http://www.tumblr.com/search)
@@ -1083,9 +1084,6 @@ This is a maintained collection of free actionable resources for those conductin
 - [DMI Tools](https://wiki.digitalmethods.net/Dmi/ToolDatabase)
 - [Black Book Online](http://www.blackbookonline.info)
 - [Melissa Data](http://www.melissadata.com/lookups/index.htm)
-
-#### Other Interesting
-- [Findsubdomains](https://findsubdomains.com/)
 
 ### Darkweb
 - [Dark Search](https://darksearch.io/)
