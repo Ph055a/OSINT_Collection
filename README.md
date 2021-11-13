@@ -75,6 +75,7 @@ This is a maintained collection of free actionable resources for those conductin
   - [IBAN](#iban)
   - [Multi-Tools](#multi-tools)
   - [Other Interesting](#other-interesting)
+- [Darkweb](#darkweb)
 
 #### Avatar
 - [Gravatar Search](https://en.gravatar.com/site/check/)
@@ -1085,3 +1086,6 @@ This is a maintained collection of free actionable resources for those conductin
 
 #### Other Interesting
 - [Findsubdomains](https://findsubdomains.com/)
+
+### Darkweb
+- [Dark Search](https://darksearch.io/)
