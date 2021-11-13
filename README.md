@@ -1,10 +1,8 @@
 ### Ph055a's OSINT Collection
 
-This was once listed as an **Awesome List** but has since changed it due to copycats.
+This is a maintained collection of free actionable resources for those conducting OSINT investigations. None of the links below should point to paid software or services, these are for actual OSINT investigations. If you find any links that do not provide actionable intelligence please remove them and commit.
 
-This is a maintained collection of free actionable resources for those conducting OSINT investigations. None of the links below should point to paid software or services, these are for actual OSINT investigations.
-
-Special thanks to everyone @ https://osint.team
+**You can find the OSINT Team on Keybase**
 
 Use your browser(CTL-F) to search by country code.
 
