@@ -81,6 +81,7 @@ This is a maintained collection of free actionable resources for those conductin
 
 #### People Investigations
 - [192](http://www.192.com/) (UK)
+- [Registryfinder](https://registryfinder.com/)
 - [411 (US)](http://www.411.com/)
 - [Alumni.net](http://www.alumni.net/)
 - [Ancestry](http://www.ancestry.com/)
@@ -106,7 +107,8 @@ This is a maintained collection of free actionable resources for those conductin
 - [Interment](http://www.interment.net/data/search.htm)
 - [International White and Yellow Pages](http://www.wayp.com/)
 - [Itools](http://itools.com/search/people-search)
-- [judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 440 million+ United States court cases.
+- [judyrecords](https://www.judyrecords.com/)
+- [Court Listener](https://www.courtlistener.com/)
 - [Kompass](http://www.kompass.com/)
 - [LittleSis](https://littlesis.org/)
 - [Locate Family](http://www.locatefamily.com)
@@ -311,6 +313,7 @@ This is a maintained collection of free actionable resources for those conductin
 - [YouTube](https://www.youtube.com/)
 - [YouTube](http://www.geosearchtool.com/)
 - [YouTube Data Viewer](https://www.amnestyusa.org/citizenevidence)
+- [Youtube GeoFinder](https://mattw.io/youtube-geofind/location)
 - [Startpage Video Search](https://www.startpage.com/eng/video.html?t=air#hmb)
 - [Bitchute](https://www.bitchute.com/)
 - [dtube](https://d.tube/)
@@ -635,6 +638,8 @@ This is a maintained collection of free actionable resources for those conductin
 - [Дезертир](http://vk.com/app3046467)
 - [Barkov.net](http://vk.barkov.net/)
 - [Find Face](http://findface.ru/) (RU)
+- [VK Watch](https://vk.watch/) (RU)
+- [Bazaman](https://bazaman.ru/) (RU)
 - [Susidy](http://susidy.com/)
 - [Report Tree](http://dcpu.ru/vk_repost_tree.php)
 - [UkrOpen](http://ukropen.net/)
@@ -753,6 +758,7 @@ This is a maintained collection of free actionable resources for those conductin
 
 #### Discord
 - [Dis.cool](https://dis.cool)
+- [discord.id](https://discord.id/)
 
 #### Snap Chat
 - [Find my snap](http://findmysnap.com/)
@@ -1035,6 +1041,7 @@ This is a maintained collection of free actionable resources for those conductin
 - [copart (auction)](https://www.copart.com)
 - [Check That Vin](https://checkthatvin.com)
 - [Vin-Info](https://uk.vin-info.com) (UK)
+- [Carnet AI](https://carnet.ai/)
 
 #### Marine & Cargo Tracking
 - [Fleetmon](https://www.fleetmon.com)
