@@ -788,6 +788,7 @@ This is a maintained collection of free actionable resources for those conductin
 - [Wolfram Alpha Facebook Report](http://www.wolframalpha.com/input/?i=facebook+report)
 - [Zesty Facebook Search](http://zesty.ca/facebook)
 - [Facebook Intersect Search Tool](https://www.osintcombine.com/facebook-intersect-search-tool)
+- [Facebook Friend List Scraper](https://github.com/narkopolo/fb_friend_list_scraper)
 
 #### Social Networks
 - [Draugiem (Latvia)](https://www.draugiem.lv/) (.lv)
