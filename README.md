@@ -1087,6 +1087,3 @@ This is a maintained collection of free actionable resources for those conductin
 - [DMI Tools](https://wiki.digitalmethods.net/Dmi/ToolDatabase)
 - [Black Book Online](http://www.blackbookonline.info)
 - [Melissa Data](http://www.melissadata.com/lookups/index.htm)
-
-### Darkweb
-- [Dark Search](https://darksearch.io/)
