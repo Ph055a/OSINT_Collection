@@ -705,6 +705,7 @@ This is a maintained collection of free actionable resources for those conductin
 - [AllMyTweets](https://www.allmytweets.net/connect/)
 - [Bioischanged](http://bioischanged.com/)
 - [doesfollow](https://doesfollow.com/)
+- [ExportData](https://www.exportdata.io/)
 - [Fake Follower Check](https://fakers.statuspeople.com/)
 - [First Tweet](http://ctrlq.org/first)
 - [Foller.me](http://foller.me/)
