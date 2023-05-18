@@ -150,6 +150,7 @@ This is a maintained collection of free actionable resources for those conductin
 - [Zoominfo](http://www.zoominfo.com/)
 - [search4faces](https://search4faces.com/tt00/index.html)
 - [How many of me?](http://howmanyofme.com/)
+- [InfoFlow]('https://infoflow.cloud/') - public search engine for people living in Chile
 
 #### Deceased Searching
 - [Grave Finder](https://www.findagrave.com/index.html)
