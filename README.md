@@ -286,7 +286,7 @@ This is a maintained collection of free actionable resources for those conductin
 - [Yahoo Maps](https://maps.yahoo.com/)
 - [Crime Reports](https://www.crimereports.com/home/#!/dashboard)
 - [Crime Mapping](https://www.crimemapping.com/home)
-- [Crystal Roof](https://crystalroof.co.uk)
+- [Crystal Roof](https://crystalroof.co.uk) (UK)
 - [Your Navigation](http://yournavigation.org/)
 - [Open Railway Map](http://www.openrailwaymap.org/)
 - [US Nav Guide](http://www.usnaviguide.com)
