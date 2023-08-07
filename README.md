@@ -898,6 +898,7 @@ This is a maintained collection of free actionable resources for those conductin
 - [Yippy](http://yippy.com/)
 
 #### Specialty Search Engines
+- [Deepinfo](https://deepinfo.com/)
 - [Spyse](https://spyse.com/)
 - [2lingual Search](http://www.2lingual.com/)
 - [Biznar](http://biznar.com/)
