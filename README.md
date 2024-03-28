@@ -583,6 +583,7 @@ This is a maintained collection of free actionable resources for those conductin
 - [ThatsThem](https://thatsthem.com/reverse-email-lookup)
 - [Toofr](https://www.toofr.com/)
 - [Verify Email](http://verify-email.org/)
+- [Hudson Rock Cybercrime Intelligence] (https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)
 
 #### Scams
 - [Scamdex](http://www.scamdex.com)
