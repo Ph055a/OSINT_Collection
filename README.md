@@ -848,6 +848,7 @@ This is a maintained collection of free actionable resources for those conductin
 - [PasteLert](http://andrewmohawk.com/pasteLert)
 
 #### Code Search
+- [Code Finder](https://codefinder.dev/)
 - [NerdyData](https://search.nerdydata.com/)
 - [SearchCode](https://searchcode.com/)
 - [Publicwww](https://publicwww.com/)
