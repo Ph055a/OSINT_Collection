@@ -766,6 +766,9 @@ This is a maintained collection of free actionable resources for those conductin
 - [Dis.cool](https://dis.cool)
 - [discord.id](https://discord.id/)
 
+#### Hindi English Typing
+- [Google Indic Keyboard](https://googleindickeyboard.com/))
+
 #### Snap Chat
 - [Find my snap](http://findmysnap.com/)
 
